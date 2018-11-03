@@ -3,3 +3,6 @@ port.lock
 eval
 plugins
 tasks
+options/vim_settings.xml
+options/runner.layout.xml
+options/dimensions.xml

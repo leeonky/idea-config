@@ -1,8 +1,18 @@
 <application>
   <component name="ActionsCollector">
     <counts>
+      <entry action="$Paste" count="1" />
+      <entry action="$Undo" count="75" />
       <entry action="DialogCancelAction Escape" count="1" />
+      <entry action="EditorBackSpace" count="4" />
+      <entry action="EditorChooseLookupItem" count="2" />
+      <entry action="EditorDown" count="7" />
+      <entry action="EditorUp" count="3" />
+      <entry action="GotoDeclaration" count="6" />
+      <entry action="Run" count="5" />
+      <entry action="ShowIntentionActions" count="1" />
       <entry action="ShowSettings" count="2" />
+      <entry action="Stop" count="5" />
     </counts>
   </component>
   <component name="FUSApplicationUsageTrigger">
@@ -10,7 +20,7 @@
       <usages-collector id="statistics.lifecycle.app">
         <counts>
           <entry key="ide.close" value="2" />
-          <entry key="ide.start" value="3" />
+          <entry key="ide.start" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.ui.tips">
@@ -31,7 +41,7 @@
     <feature id="editing.completion.finishBySmartEnter" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.popup.symbol" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="find.recent.search" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.replace" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.replace" count="0" last-shown="1541245469824" last-used="0" shown-count="18" />
     <feature id="switcher" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.complete.statement" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.goto.inspection" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -47,7 +57,7 @@
     <feature id="db.console.execute" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.recent.files" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="navigation.goto.declaration" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="6" last-shown="0" last-used="1541245638151" shown-count="0" />
     <feature id="scratch" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.finishByDotEtc" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.goto.implementation" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -74,7 +84,7 @@
     <feature id="db.table.editor.wrapper" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.quickdefinition" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="find.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.basic" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.basic" count="2" last-shown="0" last-used="1541245300293" shown-count="0" />
     <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.second.smarttype.array.member" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.postfix" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -82,7 +92,7 @@
     <feature id="refactoring.introduceVariable.incompleteStatement" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="dir.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="diagram.show.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.select.word" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.select.word" count="4" last-shown="0" last-used="1541244867638" shown-count="0" />
     <feature id="editing.add.carets.using.double.ctrl" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="db.console" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.quickjavadoc.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -104,14 +114,14 @@
     <feature id="editing.completion.changeSorting" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.quickdefinition.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
     <completionStatsTag>
-      <option name="sparedCharacters" value="0" />
-      <option name="invocations" value="0" />
-      <option name="startDate" value="0" />
-      <option name="dayCount" value="0" />
-      <option name="lastDate" value="0" />
+      <option name="sparedCharacters" value="4" />
+      <option name="invocations" value="2" />
+      <option name="startDate" value="1541203200000" />
+      <option name="dayCount" value="1" />
+      <option name="lastDate" value="1541203200000" />
     </completionStatsTag>
     <fixesStatsTag>
-      <option name="invocations" value="1" />
+      <option name="invocations" value="2" />
       <option name="startDate" value="1541203200000" />
       <option name="dayCount" value="1" />
       <option name="lastDate" value="1541203200000" />
@@ -120,6 +130,7 @@
   <component name="IntentionsCollector">
     <Intentions>
       <entry name="JAVA codeInspection.magicConstant.MagicConstantInspection$2" count="1" />
+      <entry name="JAVA daemon.impl.quickfix.ImportClassFix" count="1" />
     </Intentions>
   </component>
   <component name="MainMenuCollector">
@@ -129,18 +140,35 @@
   </component>
   <component name="ShortcutsCollector">
     <counts>
-      <entry shortcut="Escape" count="3" />
+      <entry shortcut="Alt+Enter" count="1" />
+      <entry shortcut="Alt+Shift+3" count="6" />
+      <entry shortcut="Backspace" count="8" />
+      <entry shortcut="Ctrl+C" count="43" />
+      <entry shortcut="Ctrl+V" count="9" />
+      <entry shortcut="Ctrl+Z" count="75" />
+      <entry shortcut="Down" count="7" />
+      <entry shortcut="Enter" count="2" />
+      <entry shortcut="Escape" count="5" />
+      <entry shortcut="Up" count="3" />
     </counts>
   </component>
   <component name="ToolWindowCollector">
     <counts>
-      <entry toolWindow="Project by Activation" count="3" />
+      <entry toolWindow="Project by Activation" count="6" />
+      <entry toolWindow="Run by Activation" count="14" />
+    </counts>
+  </component>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="Run@NavBarToolbar" count="5" />
+      <entry action="Stop@NavBarToolbar" count="5" />
     </counts>
   </component>
   <component name="UsageTrigger">
     <counts>
+      <entry feature="execute.SpringBootApplicationConfigurationType.Run" count="5" />
       <entry feature="ide.settings.Keymap" count="1" />
-      <entry feature="ideaapp.started" count="3" />
+      <entry feature="ideaapp.started" count="4" />
       <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="1" />
     </counts>
   </component>
