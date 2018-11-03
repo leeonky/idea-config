@@ -1,5 +1,6 @@
 <application>
   <component name="PropertiesComponent">
+    <property name="KEYMAP" value="dec" />
     <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
     <property name="defaultJdkConfigured" value="true" />
     <property name="evlsprt3.182" value="12" />

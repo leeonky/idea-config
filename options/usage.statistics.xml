@@ -1,10 +1,16 @@
 <application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="DialogCancelAction Escape" count="1" />
+      <entry action="ShowSettings" count="2" />
+    </counts>
+  </component>
   <component name="FUSApplicationUsageTrigger">
     <session id="655482535">
       <usages-collector id="statistics.lifecycle.app">
         <counts>
           <entry key="ide.close" value="2" />
-          <entry key="ide.start" value="2" />
+          <entry key="ide.start" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.ui.tips">
@@ -105,20 +111,36 @@
       <option name="lastDate" value="0" />
     </completionStatsTag>
     <fixesStatsTag>
-      <option name="invocations" value="0" />
-      <option name="startDate" value="0" />
-      <option name="dayCount" value="0" />
-      <option name="lastDate" value="0" />
+      <option name="invocations" value="1" />
+      <option name="startDate" value="1541203200000" />
+      <option name="dayCount" value="1" />
+      <option name="lastDate" value="1541203200000" />
     </fixesStatsTag>
+  </component>
+  <component name="IntentionsCollector">
+    <Intentions>
+      <entry name="JAVA codeInspection.magicConstant.MagicConstantInspection$2" count="1" />
+    </Intentions>
+  </component>
+  <component name="MainMenuCollector">
+    <counts>
+      <entry path="File -&gt; Settings..." count="2" />
+    </counts>
+  </component>
+  <component name="ShortcutsCollector">
+    <counts>
+      <entry shortcut="Escape" count="3" />
+    </counts>
   </component>
   <component name="ToolWindowCollector">
     <counts>
-      <entry toolWindow="Project by Activation" count="2" />
+      <entry toolWindow="Project by Activation" count="3" />
     </counts>
   </component>
   <component name="UsageTrigger">
     <counts>
-      <entry feature="ideaapp.started" count="2" />
+      <entry feature="ide.settings.Keymap" count="1" />
+      <entry feature="ideaapp.started" count="3" />
       <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="1" />
     </counts>
   </component>
