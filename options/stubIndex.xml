@@ -2,8 +2,6 @@
   <component name="FileBasedIndex">
     <option name="registeredIndices">
       <list>
-        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinProbablyNothingFunctionShortNameIndex" />
-        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinAnnotationsIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelExtensionsByReceiverTypeIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelTypeAliasFqNameIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelPropertyFqnNameIndex" />
@@ -113,6 +111,8 @@
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinFilePartClassIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeFqNameIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinProbablyNothingPropertyShortNameIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinProbablyNothingFunctionShortNameIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinAnnotationsIndex" />
       </list>
     </option>
   </component>

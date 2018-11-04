@@ -4,14 +4,17 @@
       <entry action="$Paste" count="1" />
       <entry action="$Undo" count="75" />
       <entry action="DialogCancelAction Escape" count="1" />
-      <entry action="EditorBackSpace" count="4" />
+      <entry action="EditorBackSpace" count="13" />
       <entry action="EditorChooseLookupItem" count="2" />
       <entry action="EditorDown" count="7" />
       <entry action="EditorUp" count="3" />
       <entry action="GotoDeclaration" count="6" />
+      <entry action="ImportProject" count="3" />
+      <entry action="NextProjectWindow" count="74" />
+      <entry action="PreviousProjectWindow" count="6" />
       <entry action="Run" count="5" />
       <entry action="ShowIntentionActions" count="1" />
-      <entry action="ShowSettings" count="2" />
+      <entry action="ShowSettings" count="3" />
       <entry action="Stop" count="5" />
     </counts>
   </component>
@@ -20,7 +23,7 @@
       <usages-collector id="statistics.lifecycle.app">
         <counts>
           <entry key="ide.close" value="2" />
-          <entry key="ide.start" value="4" />
+          <entry key="ide.start" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.ui.tips">
@@ -135,14 +138,17 @@
   </component>
   <component name="MainMenuCollector">
     <counts>
-      <entry path="File -&gt; Settings..." count="2" />
+      <entry path="File -&gt; New -&gt; Project from Existing Sources..." count="3" />
+      <entry path="File -&gt; Settings..." count="3" />
     </counts>
   </component>
   <component name="ShortcutsCollector">
     <counts>
       <entry shortcut="Alt+Enter" count="1" />
       <entry shortcut="Alt+Shift+3" count="6" />
-      <entry shortcut="Backspace" count="8" />
+      <entry shortcut="Backspace" count="17" />
+      <entry shortcut="Ctrl+Alt+Close Bracket" count="74" />
+      <entry shortcut="Ctrl+Alt+Open Bracket" count="6" />
       <entry shortcut="Ctrl+C" count="43" />
       <entry shortcut="Ctrl+V" count="9" />
       <entry shortcut="Ctrl+Z" count="75" />
@@ -154,7 +160,9 @@
   </component>
   <component name="ToolWindowCollector">
     <counts>
-      <entry toolWindow="Project by Activation" count="6" />
+      <entry toolWindow="Build by Activation" count="4" />
+      <entry toolWindow="Event Log by Activation" count="1" />
+      <entry toolWindow="Project by Activation" count="10" />
       <entry toolWindow="Run by Activation" count="14" />
     </counts>
   </component>
@@ -162,13 +170,17 @@
     <counts>
       <entry action="Run@NavBarToolbar" count="5" />
       <entry action="Stop@NavBarToolbar" count="5" />
+      <entry action="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction@ToolwindowTitle" count="2" />
     </counts>
   </component>
   <component name="UsageTrigger">
     <counts>
       <entry feature="execute.SpringBootApplicationConfigurationType.Run" count="5" />
+      <entry feature="ide.settings.Gradle" count="1" />
       <entry feature="ide.settings.Keymap" count="1" />
-      <entry feature="ideaapp.started" count="4" />
+      <entry feature="ideaapp.started" count="5" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="1" />
       <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="1" />
     </counts>
   </component>
