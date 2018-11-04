@@ -3,26 +3,30 @@
     <counts>
       <entry action="$Paste" count="1" />
       <entry action="$Undo" count="75" />
+      <entry action="CloseProject" count="1" />
       <entry action="DialogCancelAction Escape" count="1" />
-      <entry action="EditorBackSpace" count="13" />
+      <entry action="EditorBackSpace" count="15" />
       <entry action="EditorChooseLookupItem" count="2" />
       <entry action="EditorDown" count="7" />
+      <entry action="EditorPaste" count="1" />
       <entry action="EditorUp" count="3" />
       <entry action="GotoDeclaration" count="6" />
       <entry action="ImportProject" count="3" />
-      <entry action="NextProjectWindow" count="74" />
-      <entry action="PreviousProjectWindow" count="6" />
+      <entry action="NextProjectWindow" count="76" />
+      <entry action="PreviousProjectWindow" count="8" />
       <entry action="Run" count="5" />
+      <entry action="RunClass" count="1" />
       <entry action="ShowIntentionActions" count="1" />
-      <entry action="ShowSettings" count="3" />
+      <entry action="ShowSettings" count="4" />
       <entry action="Stop" count="5" />
+      <entry action="editRunConfigurations" count="4" />
     </counts>
   </component>
   <component name="FUSApplicationUsageTrigger">
     <session id="655482535">
       <usages-collector id="statistics.lifecycle.app">
         <counts>
-          <entry key="ide.close" value="2" />
+          <entry key="ide.close" value="3" />
           <entry key="ide.start" value="5" />
         </counts>
       </usages-collector>
@@ -44,7 +48,7 @@
     <feature id="editing.completion.finishBySmartEnter" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.popup.symbol" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="find.recent.search" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.replace" count="0" last-shown="1541245469824" last-used="0" shown-count="18" />
+    <feature id="editing.completion.replace" count="0" last-shown="1541304167426" last-used="0" shown-count="22" />
     <feature id="switcher" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.complete.statement" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.goto.inspection" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -138,23 +142,25 @@
   </component>
   <component name="MainMenuCollector">
     <counts>
+      <entry path="File -&gt; Close Project" count="1" />
       <entry path="File -&gt; New -&gt; Project from Existing Sources..." count="3" />
-      <entry path="File -&gt; Settings..." count="3" />
+      <entry path="File -&gt; Settings..." count="4" />
+      <entry path="Run -&gt; Edit Configurations..." count="4" />
     </counts>
   </component>
   <component name="ShortcutsCollector">
     <counts>
       <entry shortcut="Alt+Enter" count="1" />
       <entry shortcut="Alt+Shift+3" count="6" />
-      <entry shortcut="Backspace" count="17" />
-      <entry shortcut="Ctrl+Alt+Close Bracket" count="74" />
-      <entry shortcut="Ctrl+Alt+Open Bracket" count="6" />
+      <entry shortcut="Backspace" count="19" />
+      <entry shortcut="Ctrl+Alt+Close Bracket" count="76" />
+      <entry shortcut="Ctrl+Alt+Open Bracket" count="8" />
       <entry shortcut="Ctrl+C" count="43" />
-      <entry shortcut="Ctrl+V" count="9" />
+      <entry shortcut="Ctrl+V" count="10" />
       <entry shortcut="Ctrl+Z" count="75" />
       <entry shortcut="Down" count="7" />
       <entry shortcut="Enter" count="2" />
-      <entry shortcut="Escape" count="5" />
+      <entry shortcut="Escape" count="7" />
       <entry shortcut="Up" count="3" />
     </counts>
   </component>
@@ -162,26 +168,33 @@
     <counts>
       <entry toolWindow="Build by Activation" count="4" />
       <entry toolWindow="Event Log by Activation" count="1" />
-      <entry toolWindow="Project by Activation" count="10" />
+      <entry toolWindow="Messages by Activation" count="2" />
+      <entry toolWindow="Project by Activation" count="11" />
       <entry toolWindow="Run by Activation" count="14" />
     </counts>
   </component>
   <component name="ToolbarClicksCollector">
     <counts>
       <entry action="Run@NavBarToolbar" count="5" />
+      <entry action="Show Options@ToolWindowHeader" count="1" />
       <entry action="Stop@NavBarToolbar" count="5" />
-      <entry action="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction@ToolwindowTitle" count="2" />
+      <entry action="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction@ToolwindowTitle" count="3" />
+      <entry action="com.intellij.openapi.wm.impl.ToolWindowHeader$ShowOptionsAction@ToolwindowTitle" count="1" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="3" />
     </counts>
   </component>
   <component name="UsageTrigger">
     <counts>
-      <entry feature="execute.SpringBootApplicationConfigurationType.Run" count="5" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Run" count="6" />
+      <entry feature="ide.settings.Annotation Processors" count="1" />
       <entry feature="ide.settings.Gradle" count="1" />
       <entry feature="ide.settings.Keymap" count="1" />
       <entry feature="ideaapp.started" count="5" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="2" />
       <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="1" />
       <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="1" />
       <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="2" />
     </counts>
   </component>
 </application>

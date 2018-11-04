@@ -2,19 +2,11 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="/share/guoguo/back-end/micro-services/order" />
         <option value="/share/guoguo/back-end/micro-services/logistics" />
+        <option value="/share/guoguo/back-end/micro-services/order" />
         <option value="/share/guoguo/back-end/micro-services/payment" />
       </list>
     </option>
-    <option name="openPaths">
-      <list>
-        <option value="/share/guoguo/back-end/micro-services/payment" />
-        <option value="/share/guoguo/back-end/micro-services/logistics" />
-        <option value="/share/guoguo/back-end/micro-services/order" />
-      </list>
-    </option>
-    <option name="lastPath" value="/share/guoguo/back-end/micro-services/order" />
     <option name="pid" value="" />
     <option name="additionalInfo">
       <map>
@@ -24,7 +16,7 @@
               <option name="build" value="IU-182.4892.20" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1541303974943" />
+              <option name="projectOpenTimestamp" value="1541304368532" />
               <option name="buildTimestamp" value="1539683578228" />
             </RecentProjectMetaInfo>
           </value>
@@ -35,7 +27,7 @@
               <option name="build" value="IU-182.4892.20" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1541303974943" />
+              <option name="projectOpenTimestamp" value="1541304363697" />
               <option name="buildTimestamp" value="1539683578228" />
             </RecentProjectMetaInfo>
           </value>
@@ -46,7 +38,7 @@
               <option name="build" value="IU-182.4892.20" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1541303974943" />
+              <option name="projectOpenTimestamp" value="1541304362153" />
               <option name="buildTimestamp" value="1539683578228" />
             </RecentProjectMetaInfo>
           </value>
