@@ -2,22 +2,40 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="/share/guoguo/back-end/micro-services/logistics" />
+        <option value="/share/guoguo/back-end/micro-services/payment" />
+        <option value="$USER_HOME$/tmp" />
         <option value="/share/guoguo/back-end/micro-services/order" />
+        <option value="/share/guoguo/back-end/micro-services/logistics" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
         <option value="/share/guoguo/back-end/micro-services/payment" />
       </list>
     </option>
+    <option name="lastPath" value="/share/guoguo/back-end/micro-services/payment" />
     <option name="pid" value="" />
     <option name="additionalInfo">
       <map>
+        <entry key="$USER_HOME$/tmp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4892.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1541325729590" />
+              <option name="buildTimestamp" value="1539683525428" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="/share/guoguo/back-end/micro-services/logistics">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-182.4892.20" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1541304368532" />
-              <option name="buildTimestamp" value="1539683578228" />
+              <option name="projectOpenTimestamp" value="1541322257144" />
+              <option name="buildTimestamp" value="1539683534567" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -27,8 +45,8 @@
               <option name="build" value="IU-182.4892.20" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1541304363697" />
-              <option name="buildTimestamp" value="1539683578228" />
+              <option name="projectOpenTimestamp" value="1541322263971" />
+              <option name="buildTimestamp" value="1539683534567" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -38,13 +56,13 @@
               <option name="build" value="IU-182.4892.20" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1541304362153" />
-              <option name="buildTimestamp" value="1539683578228" />
+              <option name="projectOpenTimestamp" value="1541326256101" />
+              <option name="buildTimestamp" value="1539683579918" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastProjectLocation" value="/share/guoguo/back-end/micro-services" />
+    <option name="lastProjectLocation" value="$USER_HOME$" />
   </component>
 </application>

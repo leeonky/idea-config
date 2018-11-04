@@ -3,25 +3,69 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1541304277348">
+      <file name="/share/guoguo/back-end/micro-services/payment/src/main/java/com/packagebutler/service/payment/service/authorizenet/CreateTransactionRequest.java" timestamp="1541324302378">
+        <mark key="[" line="44" column="4" />
+        <mark key="]" line="44" column="3" />
+        <mark key="." line="44" column="3" />
+        <mark key="^" line="44" column="3" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1541308610312">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1541304277341">
+      <file name="/share/guoguo/back-end/micro-services/order/src/main/resources/application-dev.yml" timestamp="1541307566026">
+        <mark key="[" line="2" column="38" />
+        <mark key="]" line="2" column="60" />
+        <mark key="." line="2" column="38" />
+        <mark key="^" line="2" column="37" />
+      </file>
+      <file name="/fragment.java" timestamp="1541308603088">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/share/guoguo/back-end/micro-services/payment/src/main/resources/application-dev.yml" timestamp="1541307561927">
+        <mark key="[" line="2" column="38" />
+        <mark key="]" line="2" column="59" />
       </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="0" type="4">
+        <text>mysql.tool.pb-internal</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>wa</text>
+      </register>
+      <register name="-" type="4">
+        <text>localhost</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>wa</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
