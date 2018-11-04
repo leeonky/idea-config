@@ -1,11 +1,32 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="$Delete">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
+  <action id="AddToFavoritesPopup" />
+  <action id="ChangeSignature" />
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.ColumnsList">
+    <keyboard-shortcut first-keystroke="ctrl f3" />
+  </action>
+  <action id="Diff.ShowDiff" />
+  <action id="Editor Delete">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorDeleteLine" />
+  <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f3" />
+  </action>
   <action id="FindInPath" />
+  <action id="Generate.Missing.Members.ES6" />
+  <action id="Generate.Missing.Members.TypeScript" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="shift alt 3" />
   </action>
@@ -13,9 +34,34 @@
     <keyboard-shortcut first-keystroke="alt slash" />
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
+  <action id="ImplementMethods" />
+  <action id="IntroduceConstant">
+    <keyboard-shortcut first-keystroke="shift alt c" />
+  </action>
+  <action id="IntroduceField">
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+  <action id="IntroduceParameter">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+    <keyboard-shortcut first-keystroke="shift alt p" />
+  </action>
+  <action id="ModifyObject" />
+  <action id="NewElementInMenuGroup">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt t" />
+    <keyboard-shortcut first-keystroke="shift alt t" />
+  </action>
+  <action id="SendEOF" />
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="shift alt s" />
     <keyboard-shortcut first-keystroke="ctrl f10" />
-    <keyboard-shortcut first-keystroke="shift alt t" />
   </action>
+  <action id="UML.ShowStructure">
+    <keyboard-shortcut first-keystroke="ctrl f3" />
+  </action>
+  <action id="hg4idea.QPushAction" />
+  <action id="openAssertEqualsDiff" />
+  <action id="tasks.switch" />
 </keymap>
