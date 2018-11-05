@@ -8,6 +8,10 @@
   </action>
   <action id="AddToFavoritesPopup" />
   <action id="ChangeSignature" />
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="shift alt f10" />
+    <keyboard-shortcut first-keystroke="shift alt x" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.ColumnsList">
     <keyboard-shortcut first-keystroke="ctrl f3" />
@@ -53,6 +57,12 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt t" />
     <keyboard-shortcut first-keystroke="shift alt t" />
   </action>
+  <action id="Rerun">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f10" />
+  </action>
   <action id="SendEOF" />
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="shift alt s" />
@@ -61,6 +71,7 @@
   <action id="UML.ShowStructure">
     <keyboard-shortcut first-keystroke="ctrl f3" />
   </action>
+  <action id="Unwrap" />
   <action id="hg4idea.QPushAction" />
   <action id="openAssertEqualsDiff" />
   <action id="tasks.switch" />
