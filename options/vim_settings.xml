@@ -9,8 +9,13 @@
         <mark key="." line="44" column="3" />
         <mark key="^" line="44" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541308610312">
+      <file name="/Dummy.txt" timestamp="1541385854698">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/share/guoguo/back-end/micro-services/payment/src/test/java/com/packagebutler/service/payment/cucumber/AnetSteps.java" timestamp="1541389352416">
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="." line="127" column="0" />
       </file>
       <file name="/share/guoguo/back-end/micro-services/order/src/main/resources/application-dev.yml" timestamp="1541307566026">
         <mark key="[" line="2" column="38" />
@@ -18,40 +23,101 @@
         <mark key="." line="2" column="38" />
         <mark key="^" line="2" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1541308603088">
+      <file name="/share/guoguo/back-end/micro-services/payment/src/test/resources/features/anet.feature" timestamp="1541388805996">
+        <mark key="'" line="26" column="4" />
+        <mark key="[" line="48" column="6" />
+        <mark key="]" line="48" column="6" />
+        <mark key="^" line="48" column="6" />
+        <mark key="." line="48" column="6" />
+      </file>
+      <file name="/fragment.java" timestamp="1541385854686">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/share/guoguo/back-end/micro-services/payment/src/main/resources/application-dev.yml" timestamp="1541307561927">
         <mark key="[" line="2" column="38" />
         <mark key="]" line="2" column="59" />
       </file>
+      <file name="/share/guoguo/back-end/micro-services/payment/src/test/java/com/packagebutler/service/payment/cucumber/PaymentSteps.java" timestamp="1541388587010">
+        <mark key="'" line="103" column="4" />
+        <mark key="[" line="45" column="57" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="94" column="8" filename="/share/guoguo/back-end/micro-services/payment/src/test/java/com/packagebutler/service/payment/cucumber/PaymentSteps.java" />
+      <jump line="161" column="8" filename="/share/guoguo/back-end/micro-services/payment/src/test/java/com/packagebutler/service/payment/cucumber/PaymentSteps.java" />
+      <jump line="183" column="8" filename="/share/guoguo/back-end/micro-services/payment/src/test/java/com/packagebutler/service/payment/cucumber/PaymentSteps.java" />
+      <jump line="196" column="8" filename="/share/guoguo/back-end/micro-services/payment/src/test/java/com/packagebutler/service/payment/cucumber/PaymentSteps.java" />
+      <jump line="217" column="8" filename="/share/guoguo/back-end/micro-services/payment/src/test/java/com/packagebutler/service/payment/cucumber/PaymentSteps.java" />
+      <jump line="260" column="0" filename="/share/guoguo/back-end/micro-services/payment/src/test/java/com/packagebutler/service/payment/cucumber/PaymentSteps.java" />
+      <jump line="86" column="35" filename="/share/guoguo/back-end/micro-services/payment/src/test/java/com/packagebutler/service/payment/cucumber/AnetSteps.java" />
+      <jump line="26" column="4" filename="/share/guoguo/back-end/micro-services/payment/src/test/resources/features/anet.feature" />
+      <jump line="103" column="4" filename="/share/guoguo/back-end/micro-services/payment/src/test/java/com/packagebutler/service/payment/cucumber/PaymentSteps.java" />
+    </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>mysql.tool.pb-internal</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
-      </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
-      </register>
-      <register name=":" type="4">
-        <text>wa</text>
+        <text encoding="base64">ICAgICAgICDlrZjlnKgK</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>存在</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxzdHViQU5ldFw+</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEDlgYflpoIoIntpbnR95a2Y5Zyoe3N0cmluZ306IikKICAgIHB1YmxpYyB2b2lkIGNyZWF0ZUVudGl0aWVzKEludGVnZXIgaW50MSwgU3RyaW5nIHN0cmluZywgaW8uY3VjdW1iZXIuZGF0YXRhYmxlLkRhdGFUYWJsZSBkYXRhVGFibGUpIHsKICAgIH0K</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">c2V0IGNsaXBib2FyZCs9dW5uYW1lZAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB2Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB2Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICDlrZjlnKgK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgY3VjdW1iZXIuYXBpLlBlbmRpbmdFeGNlcHRpb24oKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBXcml0ZSBjb2RlIGhlcmUgdGhhdCB0dXJucyB0aGUgcGhyYXNlIGFib3ZlIGludG8gY29uY3JldGUgYWN0aW9ucwogICAgICAgIC8vIEZvciBhdXRvbWF0aWMgdHJhbnNmb3JtYXRpb24sIGNoYW5nZSBEYXRhVGFibGUgdG8gb25lIG9mCiAgICAgICAgLy8gRSwgTGlzdDxFPiwgTGlzdDxMaXN0PEU+PiwgTGlzdDxNYXA8SyxWPj4sIE1hcDxLLFY+IG9yCiAgICAgICAgLy8gTWFwPEssIExpc3Q8Vj4+LiBFLEssViBtdXN0IGJlIGEgU3RyaW5nLCBJbnRlZ2VyLCBGbG9hdCwKICAgICAgICAvLyBEb3VibGUsIEJ5dGUsIFNob3J0LCBMb25nLCBCaWdJbnRlZ2VyIG9yIEJpZ0RlY2ltYWwuCiAgICAgICAgLy8KICAgICAgICAvLyBGb3Igb3RoZXIgdHJhbnNmb3JtYXRpb25zIHlvdSBjYW4gcmVnaXN0ZXIgYSBEYXRhVGFibGVUeXBlLgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CiAgICBA5YGH5aaCKCJ7aW50feWtmOWcqHtzdHJpbmd9OiIpCiAgICBwdWJsaWMgdm9pZCDlrZjlnKgoSW50ZWdlciBpbnQxLCBTdHJpbmcgc3RyaW5nLCBpby5jdWN1bWJlci5kYXRhdGFibGUuRGF0YVRhYmxlIGRhdGFUYWJsZSkgewogICAgICAgIC8vIFdyaXRlIGNvZGUgaGVyZSB0aGF0IHR1cm5zIHRoZSBwaHJhc2UgYWJvdmUgaW50byBjb25jcmV0ZSBhY3Rpb25zCiAgICAgICAgLy8gRm9yIGF1dG9tYXRpYyB0cmFuc2Zvcm1hdGlvbiwgY2hhbmdlIERhdGFUYWJsZSB0byBvbmUgb2YKICAgICAgICAvLyBFLCBMaXN0PEU+LCBMaXN0PExpc3Q8RT4+LCBMaXN0PE1hcDxLLFY+PiwgTWFwPEssVj4gb3IKICAgICAgICAvLyBNYXA8SywgTGlzdDxWPj4uIEUsSyxWIG11c3QgYmUgYSBTdHJpbmcsIEludGVnZXIsIEZsb2F0LAogICAgICAgIC8vIERvdWJsZSwgQnl0ZSwgU2hvcnQsIExvbmcsIEJpZ0ludGVnZXIgb3IgQmlnRGVjaW1hbC4KICAgICAgICAvLwogICAgICAgIC8vIEZvciBvdGhlciB0cmFuc2Zvcm1hdGlvbnMgeW91IGNhbiByZWdpc3RlciBhIERhdGFUYWJsZVR5cGUuCiAgICAgICAgdGhyb3cgbmV3IGN1Y3VtYmVyLmFwaS5QZW5kaW5nRXhjZXB0aW9uKCk7CiAgICB9Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxzdHViQU5ldFw+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxzdHViQU5ldFw+</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry encoding="base64">XDxzdHViQU5ldFw+</entry>
+      </history-search>
       <history-cmd>
+        <entry>:wa</entry>
+        <entry>q</entry>
+        <entry>a</entry>
         <entry>wa</entry>
+        <entry>set clipboard+=unnamed</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -65,6 +131,24 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

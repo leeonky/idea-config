@@ -3,6 +3,7 @@
     <option name="recentPaths">
       <list>
         <option value="/share/guoguo/back-end/micro-services/payment" />
+        <option value="/share/guoguo/back-end/micro-services/supplier" />
         <option value="$USER_HOME$/tmp" />
         <option value="/share/guoguo/back-end/micro-services/order" />
         <option value="/share/guoguo/back-end/micro-services/logistics" />
@@ -56,8 +57,19 @@
               <option name="build" value="IU-182.4892.20" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1541326256101" />
-              <option name="buildTimestamp" value="1539683579918" />
+              <option name="projectOpenTimestamp" value="1541389527429" />
+              <option name="buildTimestamp" value="1539683544735" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/share/guoguo/back-end/micro-services/supplier">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4892.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1541386134186" />
+              <option name="buildTimestamp" value="1539683544735" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
