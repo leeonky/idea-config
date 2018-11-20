@@ -9,12 +9,6 @@
         <option value="/share/guoguo/back-end/micro-services/logistics" />
       </list>
     </option>
-    <option name="openPaths">
-      <list>
-        <option value="/share/guoguo/back-end/micro-services/payment" />
-      </list>
-    </option>
-    <option name="lastPath" value="/share/guoguo/back-end/micro-services/payment" />
     <option name="pid" value="" />
     <option name="additionalInfo">
       <map>
@@ -57,8 +51,8 @@
               <option name="build" value="IU-182.4892.20" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1541389527429" />
-              <option name="buildTimestamp" value="1539683544735" />
+              <option name="projectOpenTimestamp" value="1542681608476" />
+              <option name="buildTimestamp" value="1539683564260" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
