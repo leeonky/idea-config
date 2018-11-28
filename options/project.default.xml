@@ -12,6 +12,7 @@
             <entry key="/share/guoguo/back-end/micro-services/logistics" value="PREVIEW" />
             <entry key="/share/guoguo/back-end/micro-services/order" value="PREVIEW" />
             <entry key="/share/guoguo/back-end/micro-services/payment" value="PREVIEW" />
+            <entry key="/share/guoguo/back-end/micro-services/project-skeleton" value="PREVIEW" />
           </map>
         </option>
       </component>
@@ -72,9 +73,13 @@
           </profile-state>
         </entry>
       </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" />
       <component name="PropertiesComponent">
         <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
         <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="project.structure.last.edited" value="Project" />
+        <property name="project.structure.proportion" value="0.0" />
+        <property name="project.structure.side.proportion" value="0.0" />
         <property name="settings.editor.selected.configurable" value="settings.saveactions" />
       </component>
       <component name="SaveActionSettings">
@@ -99,9 +104,43 @@
       </component>
       <component name="masterDetails">
         <states>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>10</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
           <state key="ProjectJDKs.UI">
             <settings>
               <last-edited>10</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
               <splitter-proportions>
                 <option name="proportions">
                   <list>
