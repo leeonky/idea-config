@@ -9,10 +9,14 @@
       <component name="GradleLocalSettings">
         <option name="projectSyncType">
           <map>
+            <entry key="/share/guoguo/back-end/dashboard" value="PREVIEW" />
+            <entry key="/share/guoguo/back-end/micro-services/locker-point-manager" value="PREVIEW" />
             <entry key="/share/guoguo/back-end/micro-services/logistics" value="PREVIEW" />
             <entry key="/share/guoguo/back-end/micro-services/order" value="PREVIEW" />
             <entry key="/share/guoguo/back-end/micro-services/payment" value="PREVIEW" />
+            <entry key="/share/guoguo/back-end/micro-services/pickuper" value="PREVIEW" />
             <entry key="/share/guoguo/back-end/micro-services/project-skeleton" value="PREVIEW" />
+            <entry key="/share/guoguo/back-end/web" value="PREVIEW" />
           </map>
         </option>
       </component>
@@ -80,7 +84,7 @@
         <property name="project.structure.last.edited" value="Project" />
         <property name="project.structure.proportion" value="0.0" />
         <property name="project.structure.side.proportion" value="0.0" />
-        <property name="settings.editor.selected.configurable" value="settings.saveactions" />
+        <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
       </component>
       <component name="SaveActionSettings">
         <option name="actions">
@@ -93,7 +97,6 @@
             <option value="unnecessaryThis" />
             <option value="finalPrivateMethod" />
             <option value="explicitTypeCanBeDiamond" />
-            <option value="suppressAnnotation" />
             <option value="unnecessarySemicolon" />
           </set>
         </option>

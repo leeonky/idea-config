@@ -3,19 +3,28 @@
     <option name="recentPaths">
       <list>
         <option value="/share/guoguo/gradle-common/libs" />
-        <option value="/share/guoguo/back-end/micro-services/project-skeleton" />
         <option value="/share/guoguo/gradle-common/gradle-plugins" />
-        <option value="/share/guoguo/back-end/micro-services/order" />
         <option value="/share/guoguo/back-end/micro-services/event-center" />
-        <option value="/share/guoguo/back-end/micro-services/member" />
+        <option value="/share/guoguo/back-end/dashboard" />
+        <option value="/share/guoguo/back-end/web" />
         <option value="/share/guoguo/back-end/micro-services/payment" />
+        <option value="/share/guoguo/back-end/micro-services/order" />
+        <option value="/share/guoguo/back-end/micro-services/pickuper" />
+        <option value="/share/guoguo/back-end/micro-services/project-skeleton" />
+        <option value="/share/guoguo/back-end/home" />
+        <option value="/share/guoguo/back-end/micro-services/locker-point-manager" />
         <option value="/share/guoguo/back-end/micro-services/supplier" />
-        <option value="$USER_HOME$/tmp" />
+        <option value="/share/guoguo/back-end/micro-services/member" />
         <option value="/share/guoguo/back-end/micro-services/logistics" />
+        <option value="/share/guoguo/back-end/micro-services/serialnumber" />
+        <option value="$USER_HOME$/tmp" />
       </list>
     </option>
     <option name="openPaths">
       <list>
+        <option value="/share/guoguo/back-end/web" />
+        <option value="/share/guoguo/back-end/dashboard" />
+        <option value="/share/guoguo/back-end/micro-services/event-center" />
         <option value="/share/guoguo/gradle-common/libs" />
       </list>
     </option>
@@ -34,14 +43,47 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="/share/guoguo/back-end/dashboard">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4892.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1545036201373" />
+              <option name="buildTimestamp" value="1539683577807" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/share/guoguo/back-end/home">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4892.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1544753030514" />
+              <option name="buildTimestamp" value="1539683543111" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="/share/guoguo/back-end/micro-services/event-center">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-182.4892.20" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1543329153793" />
-              <option name="buildTimestamp" value="1539683579014" />
+              <option name="projectOpenTimestamp" value="1545036201373" />
+              <option name="buildTimestamp" value="1539683577807" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/share/guoguo/back-end/micro-services/locker-point-manager">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4892.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1544605879343" />
+              <option name="buildTimestamp" value="1539683573990" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -51,8 +93,8 @@
               <option name="build" value="IU-182.4892.20" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1541322257144" />
-              <option name="buildTimestamp" value="1539683534567" />
+              <option name="projectOpenTimestamp" value="1544162023159" />
+              <option name="buildTimestamp" value="1539683526917" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -62,8 +104,8 @@
               <option name="build" value="IU-182.4892.20" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1543329145851" />
-              <option name="buildTimestamp" value="1539683579014" />
+              <option name="projectOpenTimestamp" value="1544282277202" />
+              <option name="buildTimestamp" value="1539683576019" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -73,8 +115,8 @@
               <option name="build" value="IU-182.4892.20" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1543329149902" />
-              <option name="buildTimestamp" value="1539683579014" />
+              <option name="projectOpenTimestamp" value="1544944732932" />
+              <option name="buildTimestamp" value="1539683568006" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -84,8 +126,19 @@
               <option name="build" value="IU-182.4892.20" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1543329137756" />
-              <option name="buildTimestamp" value="1539683579014" />
+              <option name="projectOpenTimestamp" value="1544961967534" />
+              <option name="buildTimestamp" value="1539683568006" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/share/guoguo/back-end/micro-services/pickuper">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4892.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1544942986514" />
+              <option name="buildTimestamp" value="1539683568006" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -95,8 +148,19 @@
               <option name="build" value="IU-182.4892.20" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1543331461580" />
-              <option name="buildTimestamp" value="1539683579014" />
+              <option name="projectOpenTimestamp" value="1544757945836" />
+              <option name="buildTimestamp" value="1539683543111" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/share/guoguo/back-end/micro-services/serialnumber">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4892.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1544161647536" />
+              <option name="buildTimestamp" value="1539683526917" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -106,8 +170,19 @@
               <option name="build" value="IU-182.4892.20" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1541386134186" />
-              <option name="buildTimestamp" value="1539683544735" />
+              <option name="projectOpenTimestamp" value="1544599471543" />
+              <option name="buildTimestamp" value="1539683573990" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/share/guoguo/back-end/web">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4892.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1545036201373" />
+              <option name="buildTimestamp" value="1539683577807" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -117,8 +192,8 @@
               <option name="build" value="IU-182.4892.20" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1543329089794" />
-              <option name="buildTimestamp" value="1539683579014" />
+              <option name="projectOpenTimestamp" value="1545033856358" />
+              <option name="buildTimestamp" value="1539683577807" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -128,8 +203,8 @@
               <option name="build" value="IU-182.4892.20" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1543411744916" />
-              <option name="buildTimestamp" value="1539683526888" />
+              <option name="projectOpenTimestamp" value="1545036201373" />
+              <option name="buildTimestamp" value="1539683577807" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
