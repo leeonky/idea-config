@@ -1,34 +1,5 @@
 <application>
   <component name="RecentProjectsManager">
-    <option name="recentPaths">
-      <list>
-        <option value="/share/guoguo/gradle-common/libs" />
-        <option value="/share/guoguo/gradle-common/gradle-plugins" />
-        <option value="/share/guoguo/back-end/micro-services/event-center" />
-        <option value="/share/guoguo/back-end/dashboard" />
-        <option value="/share/guoguo/back-end/web" />
-        <option value="/share/guoguo/back-end/micro-services/payment" />
-        <option value="/share/guoguo/back-end/micro-services/order" />
-        <option value="/share/guoguo/back-end/micro-services/pickuper" />
-        <option value="/share/guoguo/back-end/micro-services/project-skeleton" />
-        <option value="/share/guoguo/back-end/home" />
-        <option value="/share/guoguo/back-end/micro-services/locker-point-manager" />
-        <option value="/share/guoguo/back-end/micro-services/supplier" />
-        <option value="/share/guoguo/back-end/micro-services/member" />
-        <option value="/share/guoguo/back-end/micro-services/logistics" />
-        <option value="/share/guoguo/back-end/micro-services/serialnumber" />
-        <option value="$USER_HOME$/tmp" />
-      </list>
-    </option>
-    <option name="openPaths">
-      <list>
-        <option value="/share/guoguo/back-end/web" />
-        <option value="/share/guoguo/back-end/dashboard" />
-        <option value="/share/guoguo/back-end/micro-services/event-center" />
-        <option value="/share/guoguo/gradle-common/libs" />
-      </list>
-    </option>
-    <option name="lastPath" value="/share/guoguo/gradle-common/libs" />
     <option name="pid" value="" />
     <option name="additionalInfo">
       <map>
@@ -46,11 +17,11 @@
         <entry key="/share/guoguo/back-end/dashboard">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="IU-182.4892.20" />
+              <option name="build" value="IU-191.7141.44" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1545036201373" />
-              <option name="buildTimestamp" value="1539683577807" />
+              <option name="projectOpenTimestamp" value="1563158947323" />
+              <option name="buildTimestamp" value="1557227507252" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -68,11 +39,11 @@
         <entry key="/share/guoguo/back-end/micro-services/event-center">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="IU-182.4892.20" />
+              <option name="build" value="IU-191.7141.44" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1545036201373" />
-              <option name="buildTimestamp" value="1539683577807" />
+              <option name="projectOpenTimestamp" value="1563158950573" />
+              <option name="buildTimestamp" value="1557227507252" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -178,11 +149,11 @@
         <entry key="/share/guoguo/back-end/web">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="IU-182.4892.20" />
+              <option name="build" value="IU-191.7141.44" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1545036201373" />
-              <option name="buildTimestamp" value="1539683577807" />
+              <option name="projectOpenTimestamp" value="1563158940090" />
+              <option name="buildTimestamp" value="1557227507252" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -200,11 +171,11 @@
         <entry key="/share/guoguo/gradle-common/libs">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="IU-182.4892.20" />
+              <option name="build" value="IU-191.7141.44" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1545036201373" />
-              <option name="buildTimestamp" value="1539683577807" />
+              <option name="projectOpenTimestamp" value="1563158990347" />
+              <option name="buildTimestamp" value="1557227496931" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
