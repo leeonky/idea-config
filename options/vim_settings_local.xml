@@ -1,0 +1,327 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxwcm9kdWN0c1w+</entry>
+        <entry encoding="base64">cHJvZHVjdHM=</entry>
+        <entry encoding="base64">XDxiZWF1dGljaWFuc1w+</entry>
+        <entry encoding="base64">YmlydGg=</entry>
+        <entry encoding="base64">Y29udmVy</entry>
+        <entry encoding="base64">XDxiZWFuVXRpbFw+</entry>
+        <entry encoding="base64">XDxndWVzc0Zyb21Db250cm9sbGVyXD4=</entry>
+        <entry encoding="base64">XDxhbGxGaWVsZHNcPg==</entry>
+        <entry encoding="base64">XDxnZXRGYWtlRGVsZXRlRmlsZWRcPg==</entry>
+        <entry encoding="base64">XDxhc3NpZ25Qcm9wZXJ0aWVzXD4=</entry>
+        <entry encoding="base64">RW50ZXQ=</entry>
+        <entry encoding="base64">RW50aXQ=</entry>
+        <entry encoding="base64">XDxwcm9jZXNzUmVmZXJlbmNlc1w+</entry>
+        <entry encoding="base64">XDxlbnRpdHlUeXBlXD4=</entry>
+        <entry encoding="base64">XDxnZXRBbDFcPg==</entry>
+        <entry encoding="base64">XDxnZXRBdmFpbGFibGVcPg==</entry>
+        <entry encoding="base64">XDxndHlwZVw+</entry>
+        <entry encoding="base64">XDxwcm9jZXNzUmVmZXJlbmNlXD4=</entry>
+        <entry encoding="base64">cm9sZQ==</entry>
+        <entry encoding="base64">cm9sZXM=</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">c2V0IGNsaXBib2FyZCs9dW5uYW1lZA==</entry>
+        <entry encoding="base64">cSE=</entry>
+        <entry encoding="base64">Ondh</entry>
+        <entry encoding="base64">JXMvYXNMaXN0L3NpbmdsZXRvbkxpc3Q=</entry>
+        <entry encoding="base64">Q2F3</entry>
+        <entry encoding="base64">JXMvanNvbigiYW5ldC9qc29uKCJwYXltZW50LmFuZXQ=</entry>
+        <entry encoding="base64">cQ==</entry>
+        <entry encoding="base64">JXMvdGVjaF9sZXZlbHMvcHJvZHVjdF9jYXRlZ29yaWVz</entry>
+        <entry encoding="base64">JXMvdXNlcnMvdGVjaF9sZXZlbHMvZ2M=</entry>
+        <entry encoding="base64">dmE=</entry>
+        <entry encoding="base64">YXc=</entry>
+        <entry encoding="base64">Vw==</entry>
+        <entry encoding="base64">JXMvcHJpY2VfdHlwZS9wcmljZVR5cGU=</entry>
+        <entry encoding="base64">JS/pobnnm64v5oqA5biI</entry>
+        <entry encoding="base64">JXMvcHJvZHVjdHMvYmVhdXRpY2lhbnM=</entry>
+        <entry encoding="base64">dw==</entry>
+        <entry encoding="base64">YQ==</entry>
+        <entry encoding="base64">V2E=</entry>
+        <entry encoding="base64">d2E=</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/main/controller/product/TechLevelsController.java" timestamp="1552659514132">
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="17" />
+        <mark key="^" line="13" column="35" />
+        <mark key="." line="13" column="17" />
+      </file>
+      <file name="/a.dummy" timestamp="1552575200551">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+      </file>
+      <file name="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/main/controller/auth/HasPermissionOrRoot.java" timestamp="1552662887824">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="35" />
+      </file>
+      <file name="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CRUDSupportImpl.java" timestamp="1552577746499">
+        <mark key="'" line="74" column="115" />
+        <mark key="[" line="104" column="27" />
+        <mark key="]" line="105" column="19" />
+        <mark key="." line="105" column="19" />
+        <mark key="^" line="105" column="19" />
+      </file>
+      <file name="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/main/controller/product/ProductCategoriesController.java" timestamp="1552577940778">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/main/controller/auth/UsersController.java" timestamp="1552661163244">
+        <mark key="[" line="30" column="54" />
+        <mark key="]" line="30" column="54" />
+        <mark key="." line="30" column="54" />
+        <mark key="^" line="30" column="74" />
+      </file>
+      <file name="/share/be_yourself/api/services/api-backend/src/test/resources/features/auth/user_management.feature" timestamp="1552661718720">
+        <mark key="[" line="565" column="0" />
+        <mark key="]" line="565" column="0" />
+        <mark key="." line="565" column="0" />
+      </file>
+      <file name="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/IndexChildren.java" timestamp="1552660300575">
+        <mark key="[" line="6" column="35" />
+        <mark key="]" line="7" column="3" />
+        <mark key="." line="7" column="3" />
+        <mark key="^" line="7" column="3" />
+      </file>
+      <file name="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/main/controller/auth/RolesController.java" timestamp="1552661185909">
+        <mark key="[" line="2" column="79" />
+        <mark key="]" line="2" column="79" />
+        <mark key="^" line="2" column="79" />
+        <mark key="." line="2" column="79" />
+      </file>
+      <file name="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/main/controller/auth/ChildrenApiPermisson.java" timestamp="1552662896196">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="27" />
+        <mark key="." line="2" column="27" />
+      </file>
+      <file name="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/main/controller/product/ProductsController.java" timestamp="1552577933547">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="5" column="58" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/EntityUtil.java" timestamp="1552575527448">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CreateChild.java" timestamp="1552662633575">
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="14" column="16" />
+        <mark key="^" line="14" column="13" />
+        <mark key="." line="14" column="16" />
+      </file>
+      <file name="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CreateChildImpl.java" timestamp="1552662642337">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="15" />
+        <mark key="." line="9" column="15" />
+        <mark key="^" line="9" column="12" />
+      </file>
+      <file name="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CRUDSupport.java" timestamp="1552577851896">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/Read.java" timestamp="1552662118344">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="29" />
+        <mark key="." line="29" column="19" />
+        <mark key="^" line="29" column="19" />
+      </file>
+      <file name="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/Create.java" timestamp="1552661855540">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="14" column="5" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/IndexChildrenImpl.java" timestamp="1552660581726">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="21" />
+        <mark key="^" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+      </file>
+      <file name="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/Update.java" timestamp="1552659863636">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="21" column="3" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1552662870611">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="51" column="25" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CRUDSupportImpl.java" />
+      <jump line="49" column="33" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/EntityType.java" />
+      <jump line="59" column="26" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/EntityType.java" />
+      <jump line="60" column="16" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/EntityType.java" />
+      <jump line="44" column="38" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/EntityType.java" />
+      <jump line="1" column="4" filename="/share/be_yourself/api/services/api-backend/src/main/resources/db/migrations/20190312163733_Add_missed_permissions.yaml" />
+      <jump line="4" column="13" filename="/share/be_yourself/api/services/api-backend/src/main/resources/db/migrations/20190312163733_Add_missed_beautician_permissions.yaml" />
+      <jump line="7" column="63" filename="/share/be_yourself/api/services/api-backend/src/main/resources/db/migrations/20190312163733_Add_missed_beautician_permissions.yaml" />
+      <jump line="9" column="63" filename="/share/be_yourself/api/services/api-backend/src/main/resources/db/migrations/20190312163733_Add_missed_beautician_permissions.yaml" />
+      <jump line="11" column="63" filename="/share/be_yourself/api/services/api-backend/src/main/resources/db/migrations/20190312163733_Add_missed_beautician_permissions.yaml" />
+      <jump line="13" column="63" filename="/share/be_yourself/api/services/api-backend/src/main/resources/db/migrations/20190312163733_Add_missed_beautician_permissions.yaml" />
+      <jump line="5" column="63" filename="/share/be_yourself/api/services/api-backend/src/main/resources/db/migrations/20190312163733_Add_missed_beautician_permissions.yaml" />
+      <jump line="0" column="0" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/product/product.feature" />
+      <jump line="0" column="0" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/product/beautician.feature" />
+      <jump line="120" column="4" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/product/beautician.feature" />
+      <jump line="117" column="4" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/product/beautician.feature" />
+      <jump line="41" column="30" filename="/share/be_yourself/api/services/api-backend/src/test/java/com/dyg/main/cucumber/ApplicationSteps.java" />
+      <jump line="1" column="6" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/product/beautician.feature" />
+      <jump line="6" column="8" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/product/beautician.feature" />
+      <jump line="7" column="8" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/product/beautician.feature" />
+      <jump line="8" column="8" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/product/beautician.feature" />
+      <jump line="9" column="8" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/product/beautician.feature" />
+      <jump line="26" column="27" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/main/entity/Beautician.java" />
+      <jump line="62" column="18" filename="/share/be_yourself/api/services/api-backend/src/main/resources/db/migrations/20190312135125_CreateTable_Beautician.yaml" />
+      <jump line="76" column="15" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/EntityUtil.java" />
+      <jump line="33" column="37" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/EntityType.java" />
+      <jump line="37" column="8" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/EntityType.java" />
+      <jump line="29" column="45" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/repository/QueryBuilder.java" />
+      <jump line="49" column="0" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/main/controller/auth/UsersController.java" />
+      <jump line="34" column="35" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/EntityType.java" />
+      <jump line="13" column="42" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CRUDSupportImpl.java" />
+      <jump line="67" column="8" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CRUDSupportImpl.java" />
+      <jump line="110" column="15" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/EntityType.java" />
+      <jump line="116" column="35" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/EntityType.java" />
+      <jump line="30" column="37" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/EntityType.java" />
+      <jump line="36" column="26" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/EntityType.java" />
+      <jump line="14" column="42" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CRUDSupportImpl.java" />
+      <jump line="105" column="4" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/EntityType.java" />
+      <jump line="6" column="25" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/EntityType.java" />
+      <jump line="19" column="13" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/EntityType.java" />
+      <jump line="35" column="11" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/EntityType.java" />
+      <jump line="41" column="33" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/EntityType.java" />
+      <jump line="45" column="18" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/EntityType.java" />
+      <jump line="51" column="29" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/EntityType.java" />
+      <jump line="52" column="32" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/EntityType.java" />
+      <jump line="62" column="25" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/EntityType.java" />
+      <jump line="127" column="38" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CRUDSupportImpl.java" />
+      <jump line="96" column="44" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CRUDSupportImpl.java" />
+      <jump line="101" column="128" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CRUDSupportImpl.java" />
+      <jump line="112" column="89" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CRUDSupportImpl.java" />
+      <jump line="47" column="27" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/EntityUtil.java" />
+      <jump line="91" column="91" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CRUDSupportImpl.java" />
+      <jump line="122" column="89" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CRUDSupportImpl.java" />
+      <jump line="123" column="8" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CRUDSupportImpl.java" />
+      <jump line="0" column="0" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CRUDSupportImpl.java" />
+      <jump line="23" column="32" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CRUDSupportImpl.java" />
+      <jump line="31" column="8" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CRUDSupportImpl.java" />
+      <jump line="32" column="42" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CRUDSupportImpl.java" />
+      <jump line="80" column="58" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CRUDSupportImpl.java" />
+      <jump line="79" column="15" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CRUDSupportImpl.java" />
+      <jump line="37" column="28" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CRUDSupportImpl.java" />
+      <jump line="43" column="35" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CRUDSupportImpl.java" />
+      <jump line="118" column="28" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CRUDSupportImpl.java" />
+      <jump line="35" column="35" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CRUDSupportImpl.java" />
+      <jump line="70" column="16" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CRUDSupportImpl.java" />
+      <jump line="128" column="25" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CRUDSupportImpl.java" />
+      <jump line="129" column="29" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CRUDSupportImpl.java" />
+      <jump line="134" column="90" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CRUDSupportImpl.java" />
+      <jump line="135" column="80" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CRUDSupportImpl.java" />
+      <jump line="97" column="44" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CRUDSupportImpl.java" />
+      <jump line="98" column="35" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CRUDSupportImpl.java" />
+      <jump line="102" column="82" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CRUDSupportImpl.java" />
+      <jump line="83" column="17" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CRUDSupportImpl.java" />
+      <jump line="77" column="59" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CRUDSupportImpl.java" />
+      <jump line="73" column="115" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CRUDSupportImpl.java" />
+      <jump line="17" column="6" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/auth/user_management.feature" />
+      <jump line="566" column="10" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/auth/user_management.feature" />
+      <jump line="573" column="4" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/auth/user_management.feature" />
+      <jump line="457" column="10" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/auth/user_management.feature" />
+      <jump line="13" column="15" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/auth/user_management.feature" />
+      <jump line="161" column="8" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/auth/user_management.feature" />
+      <jump line="166" column="8" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/auth/user_management.feature" />
+      <jump line="168" column="8" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/auth/user_management.feature" />
+      <jump line="173" column="8" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/auth/user_management.feature" />
+      <jump line="570" column="35" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/auth/user_management.feature" />
+      <jump line="37" column="0" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/auth/user_management.feature" />
+      <jump line="554" column="4" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/auth/user_management.feature" />
+      <jump line="522" column="6" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/auth/user_management.feature" />
+      <jump line="186" column="14" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/auth/user_management.feature" />
+      <jump line="507" column="6" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/auth/user_management.feature" />
+      <jump line="497" column="4" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/auth/user_management.feature" />
+      <jump line="504" column="9" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/auth/user_management.feature" />
+      <jump line="0" column="0" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/auth/user_management.feature" />
+      <jump line="78" column="9" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/auth/user_management.feature" />
+      <jump line="100" column="9" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/auth/user_management.feature" />
+      <jump line="109" column="9" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/auth/user_management.feature" />
+      <jump line="134" column="9" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/auth/user_management.feature" />
+      <jump line="196" column="0" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/auth/user_management.feature" />
+      <jump line="192" column="8" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/auth/user_management.feature" />
+      <jump line="565" column="0" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/auth/user_management.feature" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICDlrZjlnKgK</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">fQ==</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">cm9sZXM=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">QFRhcmdldCh7RWxlbWVudFR5cGUuVFlQRSwgRWxlbWVudFR5cGUuTUVUSE9EfSkKQFJldGVudGlvbihSZXRlbnRpb25Qb2xpY3kuUlVOVElNRSkK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBACg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CiAg5Zy65pmvOiDlrZflsZ7mgKfmn6Xor6IKICAgIOWBh+WmgiJUb20i5bey55m75b2V57O757ufLCDlubbkuJTku5bnmoTop5LoibLmi6XmnInlpoLkuIvmnYPpmZA6CiAgICAgIHwgbmFtZSAgICAgICAgICAgICAgICAgICAgfCBkZXNjcmlwdGlvbiAgICAgICAgICAgICAgICAgICB8CiAgICAgIHwgcm9sZXMucGVybWlzc2lvbnMuaW5kZXggfCBJbmRleCBwZXJtaXNzaW9ucyBvZiBvbmUgcm9sZSB8CiAgICDlvZPlkJEiL3JvbGVzL1BST0dSQU1NRVIvcGVybWlzc2lvbnMi5p+l6K+iCiAgICDpgqPkuYjog73lvpfliLDlk43lupTnirbmgIEyMDAsIOW5tuS4lOWTjeW6lOWGheWuueS4ujoKICAgICIiIgogICAgICBbewogICAgICAgICJpZCI6ICIqKk5BVFVSQUxfTlVNQkVSIiwKICAgICAgICAibmFtZSI6ICJyb2xlcy5wZXJtaXNzaW9ucy5pbmRleCIsCiAgICAgICAgImRlc2NyaXB0aW9uIjogIkluZGV4IHBlcm1pc3Npb25zIG9mIG9uZSByb2xlIiwKICAgICAgICAiY3JlYXRlZEF0IjogIioqVVRDX0lOX0lTT184NjAxIiwKICAgICAgICAidXBkYXRlZEF0IjogIioqVVRDX0lOX0lTT184NjAxIgogICAgICB9XQogICAgIiIiCgogIOWcuuaZrzog5a2X5bGe5oCn5Yib5bu6CiAgICDlgYflpoIiVG9tIuW3sueZu+W9leezu+e7nywg5bm25LiU5LuW55qE6KeS6Imy5oul5pyJ5aaC5LiL5p2D6ZmQOgogICAgICB8IG5hbWUgICAgICAgICAgICAgICB8IGRlc2NyaXB0aW9uICAgICAgICB8CiAgICAgIHwgdXNlcnMucm9sZXMuY3JlYXRlIHwgY3JlYXRlIHVzZXJzIHJvbGVzIHwKICAgIOW9k+WQkSIvdXNlcnMvdG9tL3JvbGVzIuaPkOS6pDoKICAgICIiIgogICAgICB7CiAgICAgICAgIm5hbWUiOiAiYWRtaW4iLAogICAgICAgICJkZXNjcmlwdGlvbiI6ICJhZG1pbmlzdHJhdG9yIiwKICAgICAgICAicGVybWlzc2lvbnMiOiBbInVzZXJzLnJvbGVzLmNyZWF0ZSJdCiAgICAgIH0KICAgICIiIgogICAg6YKj5LmI6IO95b6X5Yiw5ZON5bqU54q25oCBMjAwLCDlubbkuJTlk43lupTlhoXlrrnkuLo6CiAgICAiIiIKICAgICAgewogICAgICAgICJpZCI6ICIqKk5BVFVSQUxfTlVNQkVSIiwKICAgICAgICAibmFtZSI6ICJBRE1JTiIsCiAgICAgICAgImRlc2NyaXB0aW9uIjogImFkbWluaXN0cmF0b3IiLAogICAgICAgICJ1c2VycyI6IFt7CiAgICAgICAgICAiaWQiOiAiKipOQVRVUkFMX05VTUJFUiIsCiAgICAgICAgICAiZnVsbE5hbWUiOiAiVG9tIiwKICAgICAgICAgICJ1c2VybmFtZSI6ICJ0b20iLAogICAgICAgICAgImNyZWF0ZWRBdCI6ICIqKlVUQ19JTl9JU09fODYwMSIsCiAgICAgICAgICAidXBkYXRlZEF0IjogIioqVVRDX0lOX0lTT184NjAxIgogICAgICAgIH1dLAogICAgICAgICJwZXJtaXNzaW9ucyI6IFt7CiAgICAgICAgICAiaWQiOiAiKipOQVRVUkFMX05VTUJFUiIsCiAgICAgICAgICAibmFtZSI6ICJyb2xlcy5pbmRleCIsCiAgICAgICAgICAiZGVzY3JpcHRpb24iOiAiSW5kZXggYWxsIHJvbGVzIiwKICAgICAgICAgICJjcmVhdGVkQXQiOiAiKipVVENfSU5fSVNPXzg2MDEiLAogICAgICAgICAgInVwZGF0ZWRBdCI6ICIqKlVUQ19JTl9JU09fODYwMSIKICAgICAgICB9XSwKICAgICAgICAiY3JlYXRlZEF0IjogIioqVVRDX0lOX0lTT184NjAxIiwKICAgICAgICAidXBkYXRlZEF0IjogIioqVVRDX0lOX0lTT184NjAxIgogICAgICB9CiAgICAiIiIK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAicGVybWlzc2lvbnMiOiBbInJvbGVzLmluZGV4Il0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAidXNlcnMiOiBbInRvbSJdLAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAidXNlcnMiOiBbInRvbSJdLAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAidXNlcnMiOiBbInRvbSJdLAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">LHsKICAgICAgICAiaWQiOiAiKipOQVRVUkFMX05VTUJFUiIsCiAgICAgICAgIm5hbWUiOiAicGVybWlzc2lvbnMuc2hvdyIsCiAgICAgICAgImRlc2NyaXB0aW9uIjogIlNob3cgcGVybWlzc2lvbiBkZXRhaWwiLAogICAgICAgICJjcmVhdGVkQXQiOiAiKipVVENfSU5fSVNPXzg2MDEiLAogICAgICAgICJ1cGRhdGVkQXQiOiAiKipVVENfSU5fSVNPXzg2MDEiCiAgICAgIH0sewogICAgICAgICJpZCI6ICIqKk5BVFVSQUxfTlVNQkVSIiwKICAgICAgICAibmFtZSI6ICJwZXJtaXNzaW9ucy5jcmVhdGUiLAogICAgICAgICJkZXNjcmlwdGlvbiI6ICJDcmVhdGUgcGVybWlzc2lvbnMiLAogICAgICAgICJjcmVhdGVkQXQiOiAiKipVVENfSU5fSVNPXzg2MDEiLAogICAgICAgICJ1cGRhdGVkQXQiOiAiKipVVENfSU5fSVNPXzg2MDEiCiAgICAgIH0sewogICAgICAgICJpZCI6ICIqKk5BVFVSQUxfTlVNQkVSIiwKICAgICAgICAibmFtZSI6ICJwZXJtaXNzaW9ucy51cGRhdGUiLAogICAgICAgICJkZXNjcmlwdGlvbiI6ICJVcGRhdGUgcGVybWlzc2lvbnMiLAogICAgICAgICJjcmVhdGVkQXQiOiAiKipVVENfSU5fSVNPXzg2MDEiLAogICAgICAgICJ1cGRhdGVkQXQiOiAiKipVVENfSU5fSVNPXzg2MDEiCiAgICAgIH0sewogICAgICAgICJpZCI6ICIqKk5BVFVSQUxfTlVNQkVSIiwKICAgICAgICAibmFtZSI6ICJwZXJtaXNzaW9ucy5kZWxldGUiLAogICAgICAgICJkZXNjcmlwdGlvbiI6ICJEZWxldGUgcGVybWlzc2lvbnMiLAogICAgICAgICJjcmVhdGVkQXQiOiAiKipVVENfSU5fSVNPXzg2MDEiLAogICAgICAgICJ1cGRhdGVkQXQiOiAiKipVVENfSU5fSVNPXzg2MDEiCiAgICAgIH0=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgfCBwZXJtaXNzaW9ucy5zaG93ICAgICAgICB8IFNob3cgcGVybWlzc2lvbiBkZXRhaWwgICAgICAgIHwKICAgICAgfCBwZXJtaXNzaW9ucy5jcmVhdGUgICAgICB8IENyZWF0ZSBwZXJtaXNzaW9ucyAgICAgICAgICAgIHwKICAgICAgfCBwZXJtaXNzaW9ucy51cGRhdGUgICAgICB8IFVwZGF0ZSBwZXJtaXNzaW9ucyAgICAgICAgICAgIHwKICAgICAgfCBwZXJtaXNzaW9ucy5kZWxldGUgICAgICB8IERlbGV0ZSBwZXJtaXNzaW9ucyAgICAgICAgICAgIHwK</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">d2E=</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">cm9sZXM=</last-search>
+      <last-substitute encoding="base64">cHJvZHVjdHM=</last-substitute>
+      <last-replace encoding="base64">YmVhdXRpY2lhbnM=</last-replace>
+      <last-pattern encoding="base64">cm9sZXM=</last-pattern>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+</application>
