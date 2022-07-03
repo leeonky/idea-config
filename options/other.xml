@@ -1,4 +1,30 @@
 <application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="1pvyDyentcYXfDTh2lx69eMJU8X">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1qH5LoGRSk2rkSqSm2aRjlY2aYm">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2B7HhYEvUjJ8PskiM7QyesB6vyq">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2BQPzDA9iet6obLzQkw5p3q1dkv">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
   <component name="PropertiesComponent">
     <property name="defaultJdkConfigured" value="true" />
     <property name="evlsprt3.191" value="13" />
@@ -9,15 +35,53 @@
   </component>
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
+    "BuildView.Splitter.Proportion": "0.26633167",
+    "CREATE_FIELD_FROM_PARAMETER_DECLARE_FINAL": "true",
     "CWM_LOGGING_VERSION": "1",
+    "ExpandBeforeRunStepsPanel": "true",
+    "GradleSupport.hidePassedTests": "false",
+    "GradleSupport.showInternalTestNodes": "false",
+    "JUnitSupport.hidePassedTests": "false",
+    "KEYMAP": "find\nerror",
+    "MemberChooser.copyJavadoc": "false",
+    "MemberChooser.showClasses": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "SettingsSearchHistory": "grad",
+    "appcds.runOnSecondStart": "IC-221.5921.22-8a5b27e4ca1f5e441abbc7a33ae5f18c568701eb81bfaac7b6ebeb307367ebfe",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.run.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "bundled.plugins.list.saved.version": "IC-221.5921.22",
+    "com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor": "Sources",
+    "cucumberSupport.hidePassedTests": "false",
+    "debugger.smart.chooser.counter": "1",
+    "decompiler.legal.notice.accepted": "true",
+    "defaultJdkConfigured": "true",
+    "defaultpackageserviceconfig.fulltext": "https://package-search.services.jetbrains.com/api/search/idea/fulltext",
+    "defaultpackageserviceconfig.suggest": "https://package-search.services.jetbrains.com/api/search/idea/suggest",
+    "defaultpackageserviceconfig.updated.ts": "1656746649671",
     "eclipse.projects.detected": "",
-    "file.gist.reindex.count": "1",
+    "file.gist.reindex.count": "43",
     "fileTypeChangedCounter": "1",
+    "got.it.tooltip.cwm.invitation.notification": "1",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "gotit.previous.run": "IC-221.5921.22",
+    "ide.memory.adjusted": "true",
+    "ide.updates.whats.new.shown.for": "221",
+    "ideavim.statistics.timestamp": "1656833134130",
     "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "221-1.6.21-release-337-IJ5921.22",
+    "last_opened_file_path": "/opt/share/qbties/qbties/api",
+    "registry.to.advanced.settings.migration.build": "IC-221.5921.22",
     "tasks.pass.word.conversion.enforced": "true"
   },
   "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/opt/share/java-libs/RESTful-cucumber",
+      "/opt/share/oneone/api",
+      "/opt/share/api-commons",
+      "/opt/share/qbties/qbties/api"
+    ],
     "fileTypeDetectors": [
       "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
       "com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector",
@@ -26,4 +90,9 @@
     ]
   }
 }]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="qbties-api-history" project-path="/opt/share/qbties/qbties/api" last-access-time="1656835034500" />
+    </command-history-files>
+  </component>
 </application>

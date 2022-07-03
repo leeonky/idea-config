@@ -1,0 +1,12 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="/opt/share/api-commons" value="true" />
+        <entry key="/opt/share/java-libs/RESTful-cucumber" value="true" />
+        <entry key="/opt/share/oneone/api" value="true" />
+        <entry key="/opt/share/qbties/qbties/api" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

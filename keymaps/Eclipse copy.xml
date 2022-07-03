@@ -28,11 +28,20 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl f3" />
   </action>
-  <action id="FindInPath" />
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
   <action id="Generate.Missing.Members.ES6" />
   <action id="Generate.Missing.Members.TypeScript" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="shift alt 3" />
+  </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+  <action id="GotoPreviousError">
+    <keyboard-shortcut first-keystroke="shift f1" />
+    <keyboard-shortcut first-keystroke="alt b" />
   </action>
   <action id="HippieCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
@@ -57,6 +66,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt t" />
     <keyboard-shortcut first-keystroke="shift alt t" />
   </action>
+  <action id="Replace" />
   <action id="Rerun">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
@@ -72,6 +82,7 @@
     <keyboard-shortcut first-keystroke="ctrl f3" />
   </action>
   <action id="Unwrap" />
+  <action id="context.load" />
   <action id="hg4idea.QPushAction" />
   <action id="openAssertEqualsDiff" />
   <action id="tasks.switch" />

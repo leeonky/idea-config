@@ -22,6 +22,12 @@
         <entry encoding="base64">XDxwcm9jZXNzUmVmZXJlbmNlXD4=</entry>
         <entry encoding="base64">cm9sZQ==</entry>
         <entry encoding="base64">cm9sZXM=</entry>
+        <entry encoding="base64">XDxldmFsdWF0ZVw+</entry>
+        <entry encoding="base64">ZmVpbg==</entry>
+        <entry encoding="base64">ZmVpZw==</entry>
+        <entry encoding="base64">XDxhY2NlcHRXZWNoYXRMb2dpblw+</entry>
+        <entry encoding="base64">XDxzdHViSkpXVFRva2VuU291cmNlXD4=</entry>
+        <entry encoding="base64">XDx3ZWNoYXRVc2VyUmVwb1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">c2V0IGNsaXBib2FyZCs9dW5uYW1lZA==</entry>
@@ -30,18 +36,19 @@
         <entry encoding="base64">JXMvYXNMaXN0L3NpbmdsZXRvbkxpc3Q=</entry>
         <entry encoding="base64">Q2F3</entry>
         <entry encoding="base64">JXMvanNvbigiYW5ldC9qc29uKCJwYXltZW50LmFuZXQ=</entry>
-        <entry encoding="base64">cQ==</entry>
         <entry encoding="base64">JXMvdGVjaF9sZXZlbHMvcHJvZHVjdF9jYXRlZ29yaWVz</entry>
         <entry encoding="base64">JXMvdXNlcnMvdGVjaF9sZXZlbHMvZ2M=</entry>
         <entry encoding="base64">dmE=</entry>
-        <entry encoding="base64">YXc=</entry>
         <entry encoding="base64">Vw==</entry>
         <entry encoding="base64">JXMvcHJpY2VfdHlwZS9wcmljZVR5cGU=</entry>
         <entry encoding="base64">JS/pobnnm64v5oqA5biI</entry>
         <entry encoding="base64">JXMvcHJvZHVjdHMvYmVhdXRpY2lhbnM=</entry>
-        <entry encoding="base64">dw==</entry>
         <entry encoding="base64">YQ==</entry>
+        <entry encoding="base64">YXc=</entry>
+        <entry encoding="base64">dw==</entry>
+        <entry encoding="base64">cQ==</entry>
         <entry encoding="base64">V2E=</entry>
+        <entry encoding="base64" />
         <entry encoding="base64">d2E=</entry>
       </history-cmd>
       <history-expr />
@@ -51,114 +58,113 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/main/controller/product/TechLevelsController.java" timestamp="1552659514132">
-        <mark key="[" line="13" column="17" />
-        <mark key="]" line="13" column="17" />
-        <mark key="^" line="13" column="35" />
-        <mark key="." line="13" column="17" />
+      <file name="/opt/share/oneone/api/libs/service-test/src/main/java/com/oneone/service/cucumber/WechatLoginSteps.java" timestamp="1656838052197">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="23" column="5" />
       </file>
-      <file name="/a.dummy" timestamp="1552575200551">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="^" line="0" column="7" />
-        <mark key="." line="0" column="7" />
+      <file name="/opt/share/qbties/qbties/api/qbties/src/test/resources/features/mini-app/login.feature" timestamp="1656838199205">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="27" column="4" />
       </file>
-      <file name="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/main/controller/auth/HasPermissionOrRoot.java" timestamp="1552662887824">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="8" column="35" />
+      <file name="/opt/share/qbties/qbties/api/qbties/src/test/java/com/qbties/factory/WechatSiteUsers.java" timestamp="1656845915401">
+        <mark key="[" line="10" column="46" />
+        <mark key="]" line="10" column="47" />
+        <mark key="." line="10" column="46" />
+        <mark key="^" line="10" column="47" />
       </file>
-      <file name="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CRUDSupportImpl.java" timestamp="1552577746499">
-        <mark key="'" line="74" column="115" />
-        <mark key="[" line="104" column="27" />
-        <mark key="]" line="105" column="19" />
-        <mark key="." line="105" column="19" />
-        <mark key="^" line="105" column="19" />
+      <file name="/opt/share/qbties/qbties/api/qbties/src/main/java/com/qbties/config/MultiTypeRBACUserRepository.java" timestamp="1656840779264">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="25" column="12" />
       </file>
-      <file name="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/main/controller/product/ProductCategoriesController.java" timestamp="1552577940778">
+      <file name="/opt/share/qbties/qbties/api/qbties/src/main/java/com/qbties/config/RBACUserRepo.java" timestamp="1656838631615">
+        <mark key="[" line="11" column="40" />
+        <mark key="]" line="11" column="39" />
+        <mark key="." line="11" column="13" />
+      </file>
+      <file name="/opt/share/qbties/qbties/api/qbties/src/main/java/com/qbties/Application.java" timestamp="1656836610321">
+        <mark key="[" line="25" column="42" />
+        <mark key="]" line="25" column="42" />
+        <mark key="^" line="27" column="48" />
+        <mark key="." line="25" column="42" />
+      </file>
+      <file name="/opt/share/qbties/qbties/api/qbties/src/main/resources/application.yml" timestamp="1656837575145">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="66" column="14" />
+        <mark key="]" line="66" column="14" />
+        <mark key="^" line="66" column="14" />
+        <mark key="." line="66" column="13" />
+      </file>
+      <file name="/opt/share/qbties/qbties/api/qbties/src/test/java/com/qbties/config/MultiTypeRBACUserRepositoryTest.java" timestamp="1656840464977">
+        <mark key="[" line="16" column="58" />
+        <mark key="]" line="16" column="62" />
+        <mark key="." line="16" column="61" />
+        <mark key="^" line="16" column="62" />
+      </file>
+      <file name="/opt/share/qbties/qbties/api/qbties/src/main/java/com/qbties/config/Sites.java" timestamp="1656836566865">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="10" />
+        <mark key="^" line="4" column="11" />
+      </file>
+      <file name="/opt/share/qbties/qbties/api/qbties/src/test/resources/features/mini-app/resource.feature" timestamp="1656845578181">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="1" column="22" />
+        <mark key="^" line="1" column="22" />
+        <mark key="." line="1" column="21" />
+      </file>
+      <file name="/opt/share/qbties/qbties/api/qbties/src/main/java/com/qbties/config/auth/DefaultJJWTConfig.java" timestamp="1656838232191">
+        <mark key="[" line="16" column="46" />
+        <mark key="]" line="16" column="46" />
+        <mark key="." line="16" column="45" />
+        <mark key="^" line="16" column="46" />
+      </file>
+      <file name="/opt/share/oneone/api/libs/service-test/src/main/java/com/oneone/service/factory/WechatSiteUsers.java" timestamp="1656845792414">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="26" column="1" />
+      </file>
+      <file name="/opt/share/qbties/qbties/api/commons/base/build.gradle" timestamp="1656836757471">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/main/controller/auth/UsersController.java" timestamp="1552661163244">
-        <mark key="[" line="30" column="54" />
-        <mark key="]" line="30" column="54" />
-        <mark key="." line="30" column="54" />
-        <mark key="^" line="30" column="74" />
+      <file name="/opt/share/qbties/qbties/api/qbties/src/main/java/com/qbties/repo/WechatSiteUserRepo.java" timestamp="1656840584161">
+        <mark key="[" line="12" column="47" />
+        <mark key="]" line="12" column="56" />
+        <mark key="." line="12" column="55" />
+        <mark key="^" line="12" column="56" />
       </file>
-      <file name="/share/be_yourself/api/services/api-backend/src/test/resources/features/auth/user_management.feature" timestamp="1552661718720">
-        <mark key="[" line="565" column="0" />
-        <mark key="]" line="565" column="0" />
-        <mark key="." line="565" column="0" />
+      <file name="/opt/share/qbties/qbties/api/qbties/src/test/java/com/qbties/cucumber/AuthorizeSteps.java" timestamp="1656845948952">
+        <mark key="[" line="129" column="32" />
+        <mark key="]" line="129" column="48" />
+        <mark key="^" line="129" column="48" />
+        <mark key="." line="129" column="47" />
       </file>
-      <file name="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/IndexChildren.java" timestamp="1552660300575">
-        <mark key="[" line="6" column="35" />
-        <mark key="]" line="7" column="3" />
-        <mark key="." line="7" column="3" />
-        <mark key="^" line="7" column="3" />
+      <file name="/opt/share/qbties/qbties/api/qbties/src/main/java/com/qbties/vo/WechatSiteUser.java" timestamp="1656836285608">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="6" column="18" />
+        <mark key="." line="6" column="18" />
       </file>
-      <file name="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/main/controller/auth/RolesController.java" timestamp="1552661185909">
-        <mark key="[" line="2" column="79" />
-        <mark key="]" line="2" column="79" />
-        <mark key="^" line="2" column="79" />
-        <mark key="." line="2" column="79" />
+      <file name="/opt/share/qbties/qbties/api/qbties/src/main/java/com/qbties/controller/WechatLoginController.java" timestamp="1656838283973">
+        <mark key="[" line="26" column="41" />
+        <mark key="]" line="26" column="41" />
+        <mark key="." line="26" column="41" />
+        <mark key="^" line="26" column="49" />
       </file>
-      <file name="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/main/controller/auth/ChildrenApiPermisson.java" timestamp="1552662896196">
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="2" column="27" />
-        <mark key="." line="2" column="27" />
+      <file name="/opt/share/oneone/api/libs/service/src/main/java/com/oneone/repo/MultiTypeRBACUserRepository.java" timestamp="1656838626338">
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="12" column="39" />
       </file>
-      <file name="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/main/controller/product/ProductsController.java" timestamp="1552577933547">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="5" column="58" />
-        <mark key="." line="13" column="0" />
+      <file name="/opt/share/oneone/api/apps/oneone/src/main/java/com/oneone/oneone/controller/toc/WechatUsersController.java" timestamp="1656838259750">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="41" column="5" />
       </file>
-      <file name="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/EntityUtil.java" timestamp="1552575527448">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
-      <file name="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CreateChild.java" timestamp="1552662633575">
-        <mark key="[" line="14" column="15" />
-        <mark key="]" line="14" column="16" />
-        <mark key="^" line="14" column="13" />
-        <mark key="." line="14" column="16" />
-      </file>
-      <file name="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CreateChildImpl.java" timestamp="1552662642337">
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="9" column="15" />
-        <mark key="." line="9" column="15" />
-        <mark key="^" line="9" column="12" />
-      </file>
-      <file name="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CRUDSupport.java" timestamp="1552577851896">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/Read.java" timestamp="1552662118344">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="29" />
-        <mark key="." line="29" column="19" />
-        <mark key="^" line="29" column="19" />
-      </file>
-      <file name="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/Create.java" timestamp="1552661855540">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="14" column="5" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/IndexChildrenImpl.java" timestamp="1552660581726">
-        <mark key="[" line="6" column="14" />
-        <mark key="]" line="6" column="21" />
-        <mark key="^" line="6" column="21" />
-        <mark key="." line="6" column="21" />
-      </file>
-      <file name="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/Update.java" timestamp="1552659863636">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="21" column="3" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1552662870611">
+      <file name="/fragment.java" timestamp="1656840340515">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
@@ -166,45 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="25" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CRUDSupportImpl.java" />
-      <jump line="49" column="33" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/EntityType.java" />
-      <jump line="59" column="26" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/EntityType.java" />
-      <jump line="60" column="16" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/EntityType.java" />
-      <jump line="44" column="38" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/EntityType.java" />
-      <jump line="1" column="4" filename="/share/be_yourself/api/services/api-backend/src/main/resources/db/migrations/20190312163733_Add_missed_permissions.yaml" />
-      <jump line="4" column="13" filename="/share/be_yourself/api/services/api-backend/src/main/resources/db/migrations/20190312163733_Add_missed_beautician_permissions.yaml" />
-      <jump line="7" column="63" filename="/share/be_yourself/api/services/api-backend/src/main/resources/db/migrations/20190312163733_Add_missed_beautician_permissions.yaml" />
-      <jump line="9" column="63" filename="/share/be_yourself/api/services/api-backend/src/main/resources/db/migrations/20190312163733_Add_missed_beautician_permissions.yaml" />
-      <jump line="11" column="63" filename="/share/be_yourself/api/services/api-backend/src/main/resources/db/migrations/20190312163733_Add_missed_beautician_permissions.yaml" />
-      <jump line="13" column="63" filename="/share/be_yourself/api/services/api-backend/src/main/resources/db/migrations/20190312163733_Add_missed_beautician_permissions.yaml" />
-      <jump line="5" column="63" filename="/share/be_yourself/api/services/api-backend/src/main/resources/db/migrations/20190312163733_Add_missed_beautician_permissions.yaml" />
-      <jump line="0" column="0" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/product/product.feature" />
-      <jump line="0" column="0" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/product/beautician.feature" />
-      <jump line="120" column="4" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/product/beautician.feature" />
-      <jump line="117" column="4" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/product/beautician.feature" />
-      <jump line="41" column="30" filename="/share/be_yourself/api/services/api-backend/src/test/java/com/dyg/main/cucumber/ApplicationSteps.java" />
-      <jump line="1" column="6" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/product/beautician.feature" />
-      <jump line="6" column="8" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/product/beautician.feature" />
-      <jump line="7" column="8" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/product/beautician.feature" />
-      <jump line="8" column="8" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/product/beautician.feature" />
-      <jump line="9" column="8" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/product/beautician.feature" />
-      <jump line="26" column="27" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/main/entity/Beautician.java" />
-      <jump line="62" column="18" filename="/share/be_yourself/api/services/api-backend/src/main/resources/db/migrations/20190312135125_CreateTable_Beautician.yaml" />
-      <jump line="76" column="15" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/EntityUtil.java" />
-      <jump line="33" column="37" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/EntityType.java" />
-      <jump line="37" column="8" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/EntityType.java" />
-      <jump line="29" column="45" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/repository/QueryBuilder.java" />
-      <jump line="49" column="0" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/main/controller/auth/UsersController.java" />
-      <jump line="34" column="35" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/EntityType.java" />
-      <jump line="13" column="42" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CRUDSupportImpl.java" />
-      <jump line="67" column="8" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CRUDSupportImpl.java" />
-      <jump line="110" column="15" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/EntityType.java" />
-      <jump line="116" column="35" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/EntityType.java" />
-      <jump line="30" column="37" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/EntityType.java" />
-      <jump line="36" column="26" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/EntityType.java" />
-      <jump line="14" column="42" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/controller/CRUDSupportImpl.java" />
-      <jump line="105" column="4" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/EntityType.java" />
-      <jump line="6" column="25" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/EntityType.java" />
       <jump line="19" column="13" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/EntityType.java" />
       <jump line="35" column="11" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/EntityType.java" />
       <jump line="41" column="33" filename="/share/be_yourself/api/services/api-backend/src/main/java/com/dyg/lib/rest/EntityType.java" />
@@ -266,48 +233,96 @@
       <jump line="196" column="0" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/auth/user_management.feature" />
       <jump line="192" column="8" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/auth/user_management.feature" />
       <jump line="565" column="0" filename="/share/be_yourself/api/services/api-backend/src/test/resources/features/auth/user_management.feature" />
+      <jump line="65" column="4" filename="/opt/share/qbties/qbties/api/qbties/src/test/resources/features/dashboard/resource.feature" />
+      <jump line="422" column="19" filename="/opt/share/qbties/qbties/api/commons/wechat-test/src/main/java/info/hongshu/wx/cucumber/WechatSteps.java" />
+      <jump line="424" column="17" filename="/opt/share/qbties/qbties/api/commons/wechat-test/src/main/java/info/hongshu/wx/cucumber/WechatSteps.java" />
+      <jump line="394" column="35" filename="/opt/share/qbties/qbties/api/commons/wechat-test/src/main/java/info/hongshu/wx/cucumber/WechatSteps.java" />
+      <jump line="0" column="0" filename="/opt/share/qbties/qbties/api/commons/base/build.gradle" />
+      <jump line="3" column="11" filename="/opt/share/qbties/qbties/api/qbties/src/test/resources/features/mini-app/resource.feature" />
+      <jump line="45" column="6" filename="/opt/share/oneone/api/apps/oneone/src/test/resources/features/to-c/wechat_login.feature" />
+      <jump line="68" column="22" filename="/opt/share/oneone/api/commons/wechat-test/src/main/java/com/hongshu/wx/cucumber/WechatSteps.java" />
+      <jump line="72" column="16" filename="/opt/share/oneone/api/commons/wechat-test/src/main/java/com/hongshu/wx/cucumber/WechatSteps.java" />
+      <jump line="73" column="8" filename="/opt/share/oneone/api/commons/wechat-test/src/main/java/com/hongshu/wx/cucumber/WechatSteps.java" />
+      <jump line="76" column="17" filename="/opt/share/oneone/api/commons/wechat-test/src/main/java/com/hongshu/wx/cucumber/WechatSteps.java" />
+      <jump line="299" column="8" filename="/opt/share/oneone/api/commons/wechat-test/src/main/java/com/hongshu/wx/cucumber/WechatSteps.java" />
+      <jump line="22" column="32" filename="/opt/share/oneone/api/apps/oneone/src/test/java/com/oneone/oneone/cucumber/APISteps.java" />
+      <jump line="35" column="8" filename="/opt/share/oneone/api/apps/oneone/src/test/java/com/oneone/oneone/cucumber/APISteps.java" />
+      <jump line="42" column="8" filename="/opt/share/oneone/api/apps/oneone/src/test/java/com/oneone/oneone/cucumber/APISteps.java" />
+      <jump line="36" column="4" filename="/opt/share/qbties/qbties/api/qbties/src/main/resources/application.yml" />
+      <jump line="0" column="0" filename="/opt/share/qbties/qbties/api/qbties/src/main/resources/application.yml" />
+      <jump line="26" column="35" filename="/opt/share/oneone/api/libs/service/src/main/java/com/oneone/service/WechatSiteService.java" />
+      <jump line="20" column="0" filename="/opt/share/oneone/api/libs/service/src/main/java/com/oneone/service/WechatSiteService.java" />
+      <jump line="120" column="0" filename="/opt/share/oneone/api/libs/service/src/test/java/com/oneone/service/WechatSiteServiceTest.java" />
+      <jump line="19" column="0" filename="/opt/share/oneone/api/libs/service/src/test/java/com/oneone/service/WechatSiteServiceTest.java" />
+      <jump line="18" column="6" filename="/opt/share/oneone/api/libs/service/src/main/java/com/oneone/entity/WechatSiteUser.java" />
+      <jump line="91" column="17" filename="/opt/share/qbties/qbties/api/qbties/src/test/java/com/qbties/service/WechatSiteServiceTest.java" />
+      <jump line="21" column="31" filename="/opt/share/qbties/qbties/api/qbties/src/test/java/com/qbties/service/WechatSiteServiceTest.java" />
+      <jump line="23" column="126" filename="/opt/share/qbties/qbties/api/qbties/src/test/java/com/qbties/service/WechatSiteServiceTest.java" />
+      <jump line="20" column="26" filename="/opt/share/oneone/api/libs/service/src/test/java/com/oneone/service/CurrentWechatSiteUserServiceTest.java" />
+      <jump line="4" column="39" filename="/opt/share/qbties/qbties/api/qbties/src/test/java/com/qbties/service/CurrentWechatSiteUserServiceTest.java" />
+      <jump line="13" column="7" filename="/opt/share/oneone/api/libs/service/src/main/java/com/oneone/service/CurrentWechatSiteUserService.java" />
+      <jump line="40" column="0" filename="/opt/share/qbties/qbties/api/qbties/src/main/java/com/qbties/service/CurrentWechatSiteUserService.java" />
+      <jump line="4" column="0" filename="/opt/share/oneone/api/libs/service/src/main/java/com/oneone/config/error/IllegalSiteOperation.java" />
+      <jump line="25" column="126" filename="/opt/share/qbties/qbties/api/qbties/src/test/java/com/qbties/service/WechatSiteServiceTest.java" />
+      <jump line="16" column="0" filename="/opt/share/qbties/qbties/api/qbties/src/test/java/com/qbties/service/WechatSiteServiceTest.java" />
+      <jump line="63" column="29" filename="/opt/share/oneone/api/libs/service/src/main/java/com/oneone/service/WechatSiteService.java" />
+      <jump line="60" column="4" filename="/opt/share/oneone/api/libs/service/src/main/java/com/oneone/service/WechatSiteService.java" />
+      <jump line="6" column="39" filename="/opt/share/oneone/api/apps/oneone/src/main/resources/db/migrations/20200131070407_CreateTable_Wechat_site_users.yaml" />
+      <jump line="0" column="0" filename="/opt/share/oneone/api/apps/oneone/src/main/resources/db/migrations/20200131070407_CreateTable_Wechat_site_users.yaml" />
+      <jump line="8" column="0" filename="/opt/share/oneone/api/libs/service/src/main/java/com/oneone/vo/WechatSiteUser.java" />
+      <jump line="3" column="0" filename="/opt/share/qbties/qbties/api/qbties/src/main/java/com/qbties/vo/WechatSiteUser.java" />
+      <jump line="33" column="0" filename="/opt/share/qbties/qbties/api/qbties/src/test/resources/features/mini-app/login.feature" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICDlrZjlnKgK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Im9wZW5pZCI=</text>
+      </register>
+      <register name="*" type="4">
+        <text encoding="base64">Im9wZW5pZCI=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">fQ==</text>
+        <text encoding="base64">Im9wZW5pZCI=</text>
+      </register>
+      <register name="." type="4">
+        <text encoding="base64">dXNlci5nZXRPcGVuaWQoKQ==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">cm9sZXM=</text>
+        <text encoding="base64">XDx3ZWNoYXRVc2VyUmVwb1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QFRhcmdldCh7RWxlbWVudFR5cGUuVFlQRSwgRWxlbWVudFR5cGUuTUVUSE9EfSkKQFJldGVudGlvbihSZXRlbnRpb25Qb2xpY3kuUlVOVElNRSkK</text>
+      <register name="0" type="4">
+        <text encoding="base64">Q1VTVE9NRVI=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBACg==</text>
+        <text encoding="base64">CiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIHZvaWQgbWFpbigpIHsKICAgICAgICAgICAgCiAgICAgICAgfQoKICAgICAgICBAVHJhaXQKICAgICAgICBwdWJsaWMgdm9pZCDlrqLnq6/nmoQoQmVhbkNvbnRleHQ8V2VjaGF0U2l0ZVVzZXI+IGJlYW5Db250ZXh0KSB7CiAgICAgICAgICAgIGJlYW5Db250ZXh0LnByb3BlcnR5KCJzaXRlIikudmFsdWUoU2l0ZS5UT19DKTsKICAgICAgICB9CgogICAgICAgIEBDb21iaW5hdGlvbgogICAgICAgIHB1YmxpYyB2b2lkIELnq6/nmoQoQmVhbkNvbnRleHQ8V2VjaGF0U2l0ZVVzZXI+IGJlYW5Db250ZXh0KSB7CiAgICAgICAgICAgIGJlYW5Db250ZXh0LnByb3BlcnR5KCJzaXRlIikudmFsdWUoU2l0ZS5UT19CKTsKICAgICAgICB9CgogICAgICAgIEBDb21iaW5hdGlvbgogICAgICAgIHB1YmxpYyB2b2lkIOW3suaOiOadg+eahChCZWFuQ29udGV4dDxXZWNoYXRTaXRlVXNlcj4gYmVhbkNvbnRleHQpIHsKICAgICAgICAgICAgYmVhbkNvbnRleHQucHJvcGVydHkoIndlY2hhdFVzZXIiKS5mcm9tKFdlY2hhdFVzZXJzLuW+ruS/oeeUqOaIty5jbGFzcyk7CiAgICAgICAgfQo=</text>
+      </register>
+      <register name="q" type="4">
+        <text encoding="base64" />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAg5Zy65pmvOiDlrZflsZ7mgKfmn6Xor6IKICAgIOWBh+WmgiJUb20i5bey55m75b2V57O757ufLCDlubbkuJTku5bnmoTop5LoibLmi6XmnInlpoLkuIvmnYPpmZA6CiAgICAgIHwgbmFtZSAgICAgICAgICAgICAgICAgICAgfCBkZXNjcmlwdGlvbiAgICAgICAgICAgICAgICAgICB8CiAgICAgIHwgcm9sZXMucGVybWlzc2lvbnMuaW5kZXggfCBJbmRleCBwZXJtaXNzaW9ucyBvZiBvbmUgcm9sZSB8CiAgICDlvZPlkJEiL3JvbGVzL1BST0dSQU1NRVIvcGVybWlzc2lvbnMi5p+l6K+iCiAgICDpgqPkuYjog73lvpfliLDlk43lupTnirbmgIEyMDAsIOW5tuS4lOWTjeW6lOWGheWuueS4ujoKICAgICIiIgogICAgICBbewogICAgICAgICJpZCI6ICIqKk5BVFVSQUxfTlVNQkVSIiwKICAgICAgICAibmFtZSI6ICJyb2xlcy5wZXJtaXNzaW9ucy5pbmRleCIsCiAgICAgICAgImRlc2NyaXB0aW9uIjogIkluZGV4IHBlcm1pc3Npb25zIG9mIG9uZSByb2xlIiwKICAgICAgICAiY3JlYXRlZEF0IjogIioqVVRDX0lOX0lTT184NjAxIiwKICAgICAgICAidXBkYXRlZEF0IjogIioqVVRDX0lOX0lTT184NjAxIgogICAgICB9XQogICAgIiIiCgogIOWcuuaZrzog5a2X5bGe5oCn5Yib5bu6CiAgICDlgYflpoIiVG9tIuW3sueZu+W9leezu+e7nywg5bm25LiU5LuW55qE6KeS6Imy5oul5pyJ5aaC5LiL5p2D6ZmQOgogICAgICB8IG5hbWUgICAgICAgICAgICAgICB8IGRlc2NyaXB0aW9uICAgICAgICB8CiAgICAgIHwgdXNlcnMucm9sZXMuY3JlYXRlIHwgY3JlYXRlIHVzZXJzIHJvbGVzIHwKICAgIOW9k+WQkSIvdXNlcnMvdG9tL3JvbGVzIuaPkOS6pDoKICAgICIiIgogICAgICB7CiAgICAgICAgIm5hbWUiOiAiYWRtaW4iLAogICAgICAgICJkZXNjcmlwdGlvbiI6ICJhZG1pbmlzdHJhdG9yIiwKICAgICAgICAicGVybWlzc2lvbnMiOiBbInVzZXJzLnJvbGVzLmNyZWF0ZSJdCiAgICAgIH0KICAgICIiIgogICAg6YKj5LmI6IO95b6X5Yiw5ZON5bqU54q25oCBMjAwLCDlubbkuJTlk43lupTlhoXlrrnkuLo6CiAgICAiIiIKICAgICAgewogICAgICAgICJpZCI6ICIqKk5BVFVSQUxfTlVNQkVSIiwKICAgICAgICAibmFtZSI6ICJBRE1JTiIsCiAgICAgICAgImRlc2NyaXB0aW9uIjogImFkbWluaXN0cmF0b3IiLAogICAgICAgICJ1c2VycyI6IFt7CiAgICAgICAgICAiaWQiOiAiKipOQVRVUkFMX05VTUJFUiIsCiAgICAgICAgICAiZnVsbE5hbWUiOiAiVG9tIiwKICAgICAgICAgICJ1c2VybmFtZSI6ICJ0b20iLAogICAgICAgICAgImNyZWF0ZWRBdCI6ICIqKlVUQ19JTl9JU09fODYwMSIsCiAgICAgICAgICAidXBkYXRlZEF0IjogIioqVVRDX0lOX0lTT184NjAxIgogICAgICAgIH1dLAogICAgICAgICJwZXJtaXNzaW9ucyI6IFt7CiAgICAgICAgICAiaWQiOiAiKipOQVRVUkFMX05VTUJFUiIsCiAgICAgICAgICAibmFtZSI6ICJyb2xlcy5pbmRleCIsCiAgICAgICAgICAiZGVzY3JpcHRpb24iOiAiSW5kZXggYWxsIHJvbGVzIiwKICAgICAgICAgICJjcmVhdGVkQXQiOiAiKipVVENfSU5fSVNPXzg2MDEiLAogICAgICAgICAgInVwZGF0ZWRBdCI6ICIqKlVUQ19JTl9JU09fODYwMSIKICAgICAgICB9XSwKICAgICAgICAiY3JlYXRlZEF0IjogIioqVVRDX0lOX0lTT184NjAxIiwKICAgICAgICAidXBkYXRlZEF0IjogIioqVVRDX0lOX0lTT184NjAxIgogICAgICB9CiAgICAiIiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIubWFpbigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAicGVybWlzc2lvbnMiOiBbInJvbGVzLmluZGV4Il0K</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFdlY2hhdFNpdGVVc2VycyB7Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAidXNlcnMiOiBbInRvbSJdLAo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHRocm93IG5ldyBJbGxlZ2FsU3RhdGVFeGNlcHRpb24oKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAidXNlcnMiOiBbInRvbSJdLAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdXNlclJlcG8uZmluZEJ5VXNlcm5hbWUodHlwZUFuZE5hbWVbMV0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAidXNlcnMiOiBbInRvbSJdLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">LHsKICAgICAgICAiaWQiOiAiKipOQVRVUkFMX05VTUJFUiIsCiAgICAgICAgIm5hbWUiOiAicGVybWlzc2lvbnMuc2hvdyIsCiAgICAgICAgImRlc2NyaXB0aW9uIjogIlNob3cgcGVybWlzc2lvbiBkZXRhaWwiLAogICAgICAgICJjcmVhdGVkQXQiOiAiKipVVENfSU5fSVNPXzg2MDEiLAogICAgICAgICJ1cGRhdGVkQXQiOiAiKipVVENfSU5fSVNPXzg2MDEiCiAgICAgIH0sewogICAgICAgICJpZCI6ICIqKk5BVFVSQUxfTlVNQkVSIiwKICAgICAgICAibmFtZSI6ICJwZXJtaXNzaW9ucy5jcmVhdGUiLAogICAgICAgICJkZXNjcmlwdGlvbiI6ICJDcmVhdGUgcGVybWlzc2lvbnMiLAogICAgICAgICJjcmVhdGVkQXQiOiAiKipVVENfSU5fSVNPXzg2MDEiLAogICAgICAgICJ1cGRhdGVkQXQiOiAiKipVVENfSU5fSVNPXzg2MDEiCiAgICAgIH0sewogICAgICAgICJpZCI6ICIqKk5BVFVSQUxfTlVNQkVSIiwKICAgICAgICAibmFtZSI6ICJwZXJtaXNzaW9ucy51cGRhdGUiLAogICAgICAgICJkZXNjcmlwdGlvbiI6ICJVcGRhdGUgcGVybWlzc2lvbnMiLAogICAgICAgICJjcmVhdGVkQXQiOiAiKipVVENfSU5fSVNPXzg2MDEiLAogICAgICAgICJ1cGRhdGVkQXQiOiAiKipVVENfSU5fSVNPXzg2MDEiCiAgICAgIH0sewogICAgICAgICJpZCI6ICIqKk5BVFVSQUxfTlVNQkVSIiwKICAgICAgICAibmFtZSI6ICJwZXJtaXNzaW9ucy5kZWxldGUiLAogICAgICAgICJkZXNjcmlwdGlvbiI6ICJEZWxldGUgcGVybWlzc2lvbnMiLAogICAgICAgICJjcmVhdGVkQXQiOiAiKipVVENfSU5fSVNPXzg2MDEiLAogICAgICAgICJ1cGRhdGVkQXQiOiAiKipVVENfSU5fSVNPXzg2MDEiCiAgICAgIH0=</text>
+        <text encoding="base64">ewogICAgICAgIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfCBwZXJtaXNzaW9ucy5zaG93ICAgICAgICB8IFNob3cgcGVybWlzc2lvbiBkZXRhaWwgICAgICAgIHwKICAgICAgfCBwZXJtaXNzaW9ucy5jcmVhdGUgICAgICB8IENyZWF0ZSBwZXJtaXNzaW9ucyAgICAgICAgICAgIHwKICAgICAgfCBwZXJtaXNzaW9ucy51cGRhdGUgICAgICB8IFVwZGF0ZSBwZXJtaXNzaW9ucyAgICAgICAgICAgIHwKICAgICAgfCBwZXJtaXNzaW9ucy5kZWxldGUgICAgICB8IERlbGV0ZSBwZXJtaXNzaW9ucyAgICAgICAgICAgIHwK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">d2E=</text>
@@ -316,10 +331,10 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">cm9sZXM=</last-search>
+      <last-search encoding="base64">XDx3ZWNoYXRVc2VyUmVwb1w+</last-search>
       <last-substitute encoding="base64">cHJvZHVjdHM=</last-substitute>
       <last-replace encoding="base64">YmVhdXRpY2lhbnM=</last-replace>
-      <last-pattern encoding="base64">cm9sZXM=</last-pattern>
+      <last-pattern encoding="base64">XDx3ZWNoYXRVc2VyUmVwb1w+</last-pattern>
       <last-dir encoding="base64">MQ==</last-dir>
       <show-last encoding="base64">ZmFsc2U=</show-last>
     </search>
