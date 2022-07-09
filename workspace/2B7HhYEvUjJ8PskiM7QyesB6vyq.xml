@@ -9,10 +9,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/qbties/src/main/java/com/qbties/controller/WechatLoginController.java">
+        <entry file="file://$PROJECT_DIR$/qbties/src/main/java/com/qbties/service/WechatSiteService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+            <state relative-caret-position="380">
+              <caret line="16" column="56" lean-forward="true" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -21,10 +21,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/qbties/src/main/java/com/qbties/service/WechatSiteService.java">
+        <entry file="file://$PROJECT_DIR$/qbties/src/test/java/com/qbties/config/MultiTypeRBACUserRepositoryTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="858">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="504">
+              <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -45,7 +45,7 @@
       <summary usageCount="20" lastUsed="1656846076519" />
     </fileType>
     <fileType name="JAVA">
-      <summary usageCount="90" lastUsed="1656847984851" />
+      <summary usageCount="92" lastUsed="1657358497989" />
     </fileType>
     <fileType name="YAML">
       <summary usageCount="7" lastUsed="1656837557569" />
@@ -109,11 +109,138 @@
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" />
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="qbties-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qbties-api" type="9c53a853:ProjectViewModuleGroupNode" />
+            </path>
+            <path>
+              <item name="qbties-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qbties-api" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="qbties" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="qbties-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qbties-api" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="qbties" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qbties-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qbties-api" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="qbties" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="qbties-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qbties-api" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="qbties" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qbties-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qbties-api" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="qbties" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qbties-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qbties-api" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="qbties" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qbties" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qbties-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qbties-api" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="qbties" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qbties" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qbties-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qbties-api" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="qbties" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="qbties-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qbties-api" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="qbties" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qbties-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qbties-api" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="qbties" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qbties-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qbties-api" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="qbties" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qbties-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qbties-api" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="qbties" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="leeonky" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qbties-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qbties-api" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="qbties" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qbties" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qbties-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qbties-api" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="qbties" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qbties" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qbties-api" type="b2602c69:ProjectViewProjectNode" />
               <item name="api" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -170,21 +297,21 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="qbties" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="RunConfigurationStartHistory">
     <history>
+      <element setting="Gradle.MultiTypeRBACUserRepositoryTest.find_user_by_user_name" executorId="Run" />
+      <element setting="Gradle.MultiTypeRBACUserRepositoryTest" executorId="Run" />
       <element setting="Cucumber Java.Feature: resource" executorId="Run" />
       <element setting="Cucumber Java.Scenario: 新用户登录" executorId="Run" />
-      <element setting="Gradle.MultiTypeRBACUserRepositoryTest" executorId="Run" />
       <element setting="Cucumber Java.Scenario: 更新-静态资源" executorId="Debug" />
       <element setting="JUnit.MultiTypeRBACUserRepositoryTest" executorId="Run" />
       <element setting="Cucumber Java.Scenario: 更新-静态资源" executorId="Run" />
@@ -217,12 +344,6 @@
     </option>
   </component>
   <component name="TestHistory">
-    <history-entry file="MultiTypeRBACUserRepositoryTest - 2022.07.03 at 09h 25m 55s.xml">
-      <configuration name="MultiTypeRBACUserRepositoryTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="MultiTypeRBACUserRepositoryTest - 2022.07.03 at 09h 27m 06s.xml">
-      <configuration name="MultiTypeRBACUserRepositoryTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
     <history-entry file="MultiTypeRBACUserRepositoryTest - 2022.07.03 at 09h 27m 45s.xml">
       <configuration name="MultiTypeRBACUserRepositoryTest" configurationId="GradleRunConfiguration" />
     </history-entry>
@@ -247,6 +368,12 @@
     <history-entry file="Feature__resource - 2022.07.03 at 11h 00m 17s.xml">
       <configuration name="Feature: resource" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
+    <history-entry file="MultiTypeRBACUserRepositoryTest - 2022.07.09 at 09h 21m 46s.xml">
+      <configuration name="MultiTypeRBACUserRepositoryTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="MultiTypeRBACUserRepositoryTest_find_user_by_user_name - 2022.07.09 at 09h 22m 09s.xml">
+      <configuration name="MultiTypeRBACUserRepositoryTest.find_user_by_user_name" configurationId="GradleRunConfiguration" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -258,10 +385,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <editor active="true" />
     <layout>
       <window_info id="Bookmarks" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25698173" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.15708914" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" />
@@ -275,12 +401,12 @@
       <window_info anchor="bottom" id="Services" order="8" weight="0.3304829" />
       <window_info anchor="bottom" id="Build" order="9" weight="0.303649" />
       <window_info anchor="bottom" id="Dependencies" order="10" weight="0.32971328" />
-      <window_info anchor="right" id="Gradle" order="0" visible="true" weight="0.17158969" />
+      <window_info anchor="right" id="Gradle" order="0" weight="0.17158969" />
       <window_info anchor="right" id="Notifications" order="1" weight="0.25" />
     </layout>
     <recentWindows>
-      <value>Project</value>
       <value>Run</value>
+      <value>Project</value>
       <value>Gradle</value>
       <value>Debug</value>
       <value>TODO</value>
@@ -321,26 +447,26 @@
       <screen x="1920" y="0" width="1920" height="1176" />
     </state>
     <state x="2632" y="349" width="424" height="476" key="FileChooserDialogImpl/1920.0.1920.1176/0.0.1920.1176@1920.0.1920.1176" timestamp="1656835591385" />
-    <state width="1820" height="215" key="GridCell.Tab.0.bottom" timestamp="1656847958970">
+    <state width="1820" height="215" key="GridCell.Tab.0.bottom" timestamp="1657358571311">
       <screen x="1920" y="0" width="1920" height="1176" />
     </state>
     <state width="1590" height="300" key="GridCell.Tab.0.bottom/0.0.1680.1026/1680.0.1440.876@0.0.1680.1026" timestamp="1656749716151" />
-    <state width="1820" height="215" key="GridCell.Tab.0.bottom/1920.0.1920.1176/0.0.1920.1176@1920.0.1920.1176" timestamp="1656847958970" />
-    <state width="1820" height="215" key="GridCell.Tab.0.center" timestamp="1656847958969">
+    <state width="1820" height="215" key="GridCell.Tab.0.bottom/1920.0.1920.1176/0.0.1920.1176@1920.0.1920.1176" timestamp="1657358571311" />
+    <state width="1820" height="215" key="GridCell.Tab.0.center" timestamp="1657358571311">
       <screen x="1920" y="0" width="1920" height="1176" />
     </state>
     <state width="1590" height="300" key="GridCell.Tab.0.center/0.0.1680.1026/1680.0.1440.876@0.0.1680.1026" timestamp="1656749716151" />
-    <state width="1820" height="215" key="GridCell.Tab.0.center/1920.0.1920.1176/0.0.1920.1176@1920.0.1920.1176" timestamp="1656847958969" />
-    <state width="1820" height="215" key="GridCell.Tab.0.left" timestamp="1656847958969">
+    <state width="1820" height="215" key="GridCell.Tab.0.center/1920.0.1920.1176/0.0.1920.1176@1920.0.1920.1176" timestamp="1657358571311" />
+    <state width="1820" height="215" key="GridCell.Tab.0.left" timestamp="1657358571311">
       <screen x="1920" y="0" width="1920" height="1176" />
     </state>
     <state width="1590" height="300" key="GridCell.Tab.0.left/0.0.1680.1026/1680.0.1440.876@0.0.1680.1026" timestamp="1656749716151" />
-    <state width="1820" height="215" key="GridCell.Tab.0.left/1920.0.1920.1176/0.0.1920.1176@1920.0.1920.1176" timestamp="1656847958969" />
-    <state width="1820" height="215" key="GridCell.Tab.0.right" timestamp="1656847958970">
+    <state width="1820" height="215" key="GridCell.Tab.0.left/1920.0.1920.1176/0.0.1920.1176@1920.0.1920.1176" timestamp="1657358571311" />
+    <state width="1820" height="215" key="GridCell.Tab.0.right" timestamp="1657358571311">
       <screen x="1920" y="0" width="1920" height="1176" />
     </state>
     <state width="1590" height="300" key="GridCell.Tab.0.right/0.0.1680.1026/1680.0.1440.876@0.0.1680.1026" timestamp="1656749716151" />
-    <state width="1820" height="215" key="GridCell.Tab.0.right/1920.0.1920.1176/0.0.1920.1176@1920.0.1920.1176" timestamp="1656847958970" />
+    <state width="1820" height="215" key="GridCell.Tab.0.right/1920.0.1920.1176/0.0.1920.1176@1920.0.1920.1176" timestamp="1657358571311" />
     <state width="1820" height="485" key="GridCell.Tab.1.bottom" timestamp="1656841734829">
       <screen x="1920" y="0" width="1920" height="1176" />
     </state>
@@ -361,10 +487,10 @@
     </state>
     <state width="1590" height="196" key="GridCell.Tab.1.right/0.0.1680.1026/1680.0.1440.876@0.0.1680.1026" timestamp="1656749716126" />
     <state width="1820" height="485" key="GridCell.Tab.1.right/1920.0.1920.1176/0.0.1920.1176@1920.0.1920.1176" timestamp="1656841734829" />
-    <state x="2346" y="225" key="SettingsEditor" timestamp="1656839920885">
+    <state x="2346" y="225" key="SettingsEditor" timestamp="1657358487089">
       <screen x="1920" y="0" width="1920" height="1176" />
     </state>
-    <state x="2346" y="225" key="SettingsEditor/1920.0.1920.1176/0.0.1920.1176@1920.0.1920.1176" timestamp="1656839920885" />
+    <state x="2346" y="225" key="SettingsEditor/1920.0.1920.1176/0.0.1920.1176@1920.0.1920.1176" timestamp="1657358487089" />
     <state x="2631" y="358" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1656838641977">
       <screen x="1920" y="0" width="1920" height="1176" />
     </state>
@@ -534,13 +660,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/qbties/src/main/java/com/qbties/controller/MiniAppController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/qbties/src/main/java/com/qbties/controller/MiniAppController.java" />
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/9.0.54/34322c731b2394ea13681cfae0be9cd72f46f88d/tomcat-embed-core-9.0.54.jar!/javax/servlet/http/HttpServletResponse.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -698,16 +818,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/qbties/src/test/java/com/qbties/config/MultiTypeRBACUserRepositoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/qbties/src/main/java/com/qbties/config/MultiTypeRBACUserRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
@@ -803,20 +913,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/qbties/src/main/java/com/qbties/controller/WechatLoginController.java">
+    <entry file="file://$PROJECT_DIR$/qbties/src/main/java/com/qbties/controller/WechatLoginController.java" />
+    <entry file="file://$PROJECT_DIR$/qbties/src/main/java/com/qbties/service/WechatSiteService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+        <state relative-caret-position="380">
+          <caret line="16" column="56" lean-forward="true" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/qbties/src/main/java/com/qbties/service/WechatSiteService.java">
+    <entry file="file://$PROJECT_DIR$/qbties/src/test/java/com/qbties/config/MultiTypeRBACUserRepositoryTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="504">
+          <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

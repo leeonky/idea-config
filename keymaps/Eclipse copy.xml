@@ -36,6 +36,11 @@
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="shift alt 3" />
   </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+    <keyboard-shortcut first-keystroke="shift alt 4" />
+  </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
@@ -67,11 +72,13 @@
     <keyboard-shortcut first-keystroke="shift alt t" />
   </action>
   <action id="Replace" />
-  <action id="Rerun">
-    <keyboard-shortcut first-keystroke="alt r" />
-  </action>
+  <action id="Rerun" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift f10" />
+  </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="shift ctrl f10" />
+    <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="SendEOF" />
   <action id="ShowPopupMenu">
@@ -82,6 +89,7 @@
     <keyboard-shortcut first-keystroke="ctrl f3" />
   </action>
   <action id="Unwrap" />
+  <action id="UsageView.Rerun" />
   <action id="context.load" />
   <action id="hg4idea.QPushAction" />
   <action id="openAssertEqualsDiff" />

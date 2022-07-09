@@ -91,6 +91,9 @@
         <mark key="^" line="27" column="48" />
         <mark key="." line="25" column="42" />
       </file>
+      <file name="/" timestamp="1657358313674">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/opt/share/qbties/qbties/api/qbties/src/main/resources/application.yml" timestamp="1656837575145">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="66" column="14" />
@@ -143,12 +146,6 @@
         <mark key="]" line="129" column="48" />
         <mark key="^" line="129" column="48" />
         <mark key="." line="129" column="47" />
-      </file>
-      <file name="/opt/share/qbties/qbties/api/qbties/src/main/java/com/qbties/vo/WechatSiteUser.java" timestamp="1656836285608">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="6" column="18" />
-        <mark key="]" line="6" column="18" />
-        <mark key="." line="6" column="18" />
       </file>
       <file name="/opt/share/qbties/qbties/api/qbties/src/main/java/com/qbties/controller/WechatLoginController.java" timestamp="1656838283973">
         <mark key="[" line="26" column="41" />
